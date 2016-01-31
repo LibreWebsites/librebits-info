@@ -62,7 +62,7 @@
 	  <h4> Pagos Online a Librebits.info via TransferWise</h4>
 	  <div class="row">
 	    <div class="col-xs-8 col-sm-6">
-	      <p> Manda dinero con el cambio real via TransferWise: </p>
+	      <p> €nergizanos mandando dinero con el cambio real via TransferWise: </p>
 	    </div>
 	    <div class="col-xs-4 col-sm-6">
 	            <div class="row text-center">
@@ -106,7 +106,7 @@
 	  <div class="row">
 	    
 	    <div class="col-xs-8 col-sm-6">
-	      <p> Manda dinero via PayPal o tarjeta de crédito de forma sencilla : </p>
+	      <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla : </p>
 	    </div>
 	    <div class="col-xs-4 col-sm-6">
 	            <div class="row text-center">
@@ -132,20 +132,7 @@
 
         </div><!-- /.container -->
 
-
-      <!-- FOOTER  \!/ - no alineado - margen - container ?
-
   
-      
-      <footer>
-        <p class="pull-right"></p>
-        <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-      </footer>
-
-    </div><!-- /.container -->
-
- -->
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
