@@ -49,9 +49,8 @@
           <img class="first-slide" src="assets/images/slideshow/Librebits_v4.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>(Nos)Empoderamos</h1>
-              <p> En <code>librebits</code> (nos) empoderamos, las pequeñas y medianas empresas/organizaciones. La cooperación supera la corporación.
-	      </p>
+              <p> <code> -. Lao-Tzu , filósofo chino ( 604 a.C. - 531 a.C. )</code> </p>
+	                   <p><h3>"Producción sin posesión,  acción sin ambición, desarrollo sin dominio"</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
