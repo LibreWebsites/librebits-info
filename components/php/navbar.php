@@ -16,20 +16,18 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a href="https://jordila.librebits.info">Blog</a></li>
-                <li><a href="pay.php"> €nergiza </a></li>
-                <li><a href="contact.php">Contacta</a></li>
-<!--                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprender<span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
+                    <li class="dropdown-header">Compartiendo y desarrollando</li>
+                    <li><a href="herramientas.php">Herramientas colectivas...</li>
                     <li role="separator" class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li class="dropdown-header">... autonomía tecnológica</li>
+       		    <li><a href="software-libre.php">¿Qué es el software libre?</a></li>
                   </ul>
-                </li> -->
+                </li>
+		<li><a href="pay.php"> €nergiza </a></li>
+                <li><a href="contact.php">Contacta</a></li>
               </ul>
             </div>
           </div>
