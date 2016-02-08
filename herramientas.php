@@ -55,7 +55,7 @@
 
 
 
-<!-- PayPal button  Container 
+<!-- Logos herramientas  Container 
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 

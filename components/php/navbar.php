@@ -23,7 +23,8 @@
                     <li><a href="herramientas.php">Herramientas colectivas...</li>
                     <li role="separator" class="divider"></li>
                     <li class="dropdown-header">... autonomía tecnológica</li>
-       		    <li><a href="software-libre.php">¿Qué es el software libre?</a></li>
+       		  <!--  <li><a href="software-libre.php">¿Qué es el software libre?</a></li> -->
+		    <li><a href="#">¿Qué es el software libre?</a></li>
                   </ul>
                 </li>
 		<li><a href="pay.php"> €nergiza </a></li>
