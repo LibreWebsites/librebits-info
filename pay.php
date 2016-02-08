@@ -50,6 +50,47 @@
 
 
 
+<!-- PayPal button  Container 
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+
+  <div class="container">
+
+      <div class="row">
+	<div class="col-sm-9">
+	  <h4> Pago Online a Librebits.info via PayPal</h4>
+	  <div class="row">
+	    
+	    <div class="col-xs-8 col-sm-6">
+	      <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
+	    </div>
+	    <div class="col-xs-4 col-sm-6">
+	            <div class="row text-center">
+		      <!-- aqui viene el botón de pago PayPal -->
+
+		      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="hosted_button_id" value="W8UQPFZBSB5WU">
+			<input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+			 
+<!--		      <p><a href="https://paypal.com"> <img alt="PayPal logo" src="assets/images/PayPal.svg.png" ></a></p> -->
+		    </div>
+	    </div>
+	  </div>
+	  
+	</div>
+	</div>
+
+  </div>
+
+
+        </div><!-- /.container -->
+
+    
+
     <!-- TransferWise option >> transferwise.com
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -62,7 +103,7 @@
 	  <h4> Pagos Online a Librebits.info via TransferWise</h4>
 	  <div class="row">
 	    <div class="col-xs-8 col-sm-6">
-	      <p> €nergizanos mandando dinero con el cambio real via TransferWise: </p>
+	      <p> Energizano$ con dinero en otras monedas con el cambio real via TransferWise, ahorrando en comisiones: </p>
 	    </div>
 	    <div class="col-xs-4 col-sm-6">
 	            <div class="row text-center">
@@ -90,47 +131,6 @@
 
 
 </div><!-- /.container -->
-
-
-
-    <!-- PayPal button 
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-
-  <div class="container">
-
-      <div class="row">
-	<div class="col-sm-9">
-	  <h4> Pago Online a Librebits.info via PayPal</h4>
-	  <div class="row">
-	    
-	    <div class="col-xs-8 col-sm-6">
-	      <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla : </p>
-	    </div>
-	    <div class="col-xs-4 col-sm-6">
-	            <div class="row text-center">
-		      <!-- aqui viene el botón de pago PayPal -->
-
-		      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-			<input type="hidden" name="cmd" value="_s-xclick">
-			<input type="hidden" name="hosted_button_id" value="W8UQPFZBSB5WU">
-			<input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-			</form>
-			 
-<!--		      <p><a href="https://paypal.com"> <img alt="PayPal logo" src="assets/images/PayPal.svg.png" ></a></p> -->
-		    </div>
-	    </div>
-	  </div>
-	  
-	</div>
-	</div>
-
-  </div>
-
-
-        </div><!-- /.container -->
 
   
     <!-- Bootstrap core JavaScript
