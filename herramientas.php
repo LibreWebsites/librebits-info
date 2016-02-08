@@ -69,10 +69,10 @@
 	<!--    <h4 class="display">We praise them. They empower us.</h4><img src="static/images/tux.svg" alt="TUX" class="tux"> -->
 	<ul class="weapons-logos">
 
-	  <li>
-	    <!-- obviar primera columna                 <a href="https://www.android.com/" target="_blank"><img class="display" src="assets/images/Android.svg.pn\
-		 g" alt="Android" title="Android" border="0"></a> -->
-	  </li>
+	  <!-- <li>
+	     obviar primera columna                 <a href="https://www.android.com/" target="_blank"><img class="display" src="assets/images/Android.svg.pn\
+		 g" alt="Android" title="Android" border="0"></a>
+	  </li> -->
 
 	  <li>
 	    <a href="https://drupal.org/" target="_blank"><img class="display" src="logos/drupal.svg.png" alt="Drupal CMS" title="Drupal" border=\
@@ -87,7 +87,67 @@
 	  <li>
 	    <a href="http://moodle.org" target="_blank"><img class="display" src="logos/moodle.png" alt="Moodle LMS" title="Moodle" border="0"></\
 																		  a>
-</li>
+          </li>
+
+          <li>
+	    <a href="https://www.w3.org/html" target="_blank"><img class="display" src="logos/HTML5.svg.png" alt="HTML 5" title="HTML 5 " border=\
+							 "0"></a>
+	  </li>
+
+
+	  <!-- <li>
+obviar primera columna                 <a href="https://www.android.com/" target="_blank"><img class="display" src="assets/images/Android.svg.pn\
+     g" alt="Android" title="Android" border="0"></a>
+	  </li> -->
+
+          <li>
+	    <a href="https://www.w3.org/style/CSS" target="_blank"><img class="display" src="logos/css3.svg" alt="CSS 3" title="CSS 3" border="0"\
+							      ></a>
+	  </li>
+
+          <li>
+	    <a href="https://getbootstrap.com" target="_blank"><img class="display" src="logos/bootstrap.svg" alt="Bootstrap" title="Bootsrap" bo\
+							  rder="0"></a>
+	  </li>
+	  
+          <li>
+	    <a href="https://www.mysql.com/" target="_blank"><img class="display" src="logos/MySQL.svg" alt="MySQL" title="MySQL" border="0"></a>
+	  </li>
+
+
+          <li>
+	    <a href="https://httpd.apache.org" target="_blank"><img class="display" src="logos/apache.png" alt="Apache" title="Apache" border="0"\
+							  ></a>
+	  </li>
+
+
+<!-- <li>
+  obviar primera columna                 <a href="https://www.android.com/" target="_blank"><img class="display" src="assets/images/An\
+       droid.svg.png" alt="Android" title="Android" border="0"></a>
+</li> -->
+
+
+          <li>
+	    <a href="https://git-scm.com" target="_blank"><img class="display" src="logos/git.png" alt="Git" title="Git" border="0"></a>
+	  </li>
+
+          <li>
+	    <a href="https://www.gnu.org" target="_blank"><img class="display" src="logos/gnu-alt-wp1.png" alt="GNU" title="GNU" border="0"></a>
+	  </li>
+
+
+          <li>
+	    <a href="http://responsiveimages.org/" target="_blank"><img class="display" src="logos/responsive-web-design.svg" title="Responsive W\
+													   eb" border="0"></a>
+	  </li>
+
+          <li>
+            <a href="https://www.linux.com/" target="_blank"><img class="display" src="logos/512px-Tux.svg.png" title="Linux" border="0"></a>
+          </li>
+
+<!-- más logos - weapons aquí : ...-->
+
+
 
 </section>
 
