@@ -15,7 +15,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="https://jordila.librebits.info">Blog</a></li>
+<!--                <li><a href="https://blog.librebits.info">Blog</a></li> -->
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprender<span class="caret"></span></a>
                   <ul class="dropdown-menu">
