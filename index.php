@@ -162,7 +162,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Somos flexibles<span class="text-muted"> Exploradores. Buscadores... </span></h2>
+          <h2 class="featurette-heading">Maestros-aprendices<span class="text-muted"> Exploradores. Buscadores... </span></h2>
           <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje.
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
 	  <p class="lead"> 
@@ -177,11 +177,13 @@
 
             <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> ¿Mi propia red de Telefonía IP (VoIP) y centralita?¿Red privada virtual(VPN)?¿Correo-e?<span></h2>
+          <h2 class="featurette-heading"> ¿Red privada virtual(VPN)?¿Correo-e seguro y privado?¿pagos online?<span></h2>
 
-	   <span class="text-muted">Convierte una simple computadora en un servidor de comunicaciones.</span></h2
+	   <span class="text-muted">Potenciamos las posibilidades de tu red y espacio web.</span></h2
 
-          <p class="lead"> ... (PBX) avanzada, centro de llamadas (Call Center), llamadas a través de Internet (VoIP)... todo ello a precios más económicos que los que pueda ofrecerte tu operador.¿Quieres también disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
+          <p class="lead"> ¿Colaboramos para que puedas disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
+	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i>? . Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
+          <p> Estamos experimentando con <i>criptomonedas (Bitcoin,Faircoin)</i> y bla,bla...¿Mejor nos escribimos y seguimos charlando?</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
