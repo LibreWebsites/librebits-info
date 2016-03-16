@@ -80,6 +80,40 @@
 		    </div>
 	    </div>
 	  </div>
+
+          <div class="row">
+        
+        <div class="col-xs-8 col-sm-6">
+          <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
+        </div>
+        <div class="col-xs-4 col-sm-6">
+                <div class="row text-center">
+              <!-- aqui viene el botón de pago PayPal -->
+<form name="_xclick" action="https://www.sandbox.paypal.com/es/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="librebits@gmail.com">
+<input type="hidden" name="cancel_return" value="https://librebits.info/pago_cancelado.html">
+<input type="hidden" name="return" value="https://librebits.info/pago_realizado.html">
+<input type="hidden" name="cbt" value="Volver a Librebits">
+<input type="hidden" name="image_url" value="https://librebits.info/assets/images/Librebits_v3_100x.png">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="item_name" value="Pago acordado">
+<div>
+<label for="amount">Importe del pago</label>  
+<input type="number" name="amount" value="0" min="0">
+</div>
+<br>
+<div>
+<input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="Realice pagos con PayPal: es rápido, gratis y seguro">
+</div>
+
+</form>
+
+            </div>
+        </div>
+      </div>
 	  
 	</div>
 	</div>
