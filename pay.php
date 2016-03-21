@@ -59,14 +59,15 @@
 
       <div class="row">
 	<div class="col-sm-9">
-	  <h4> Pago Online a Librebits.info via PayPal</h4>
+	  <h3> Pago Online a Librebits.info via PayPal</h3>
 	  <div class="row">
 	    
 	    <div class="col-xs-8 col-sm-6">
 	      <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
 	    </div>
 	    <div class="col-xs-4 col-sm-6">
-	            <div class="row text-center">
+	      <div class="row text-center">
+		<hr style="noshade size="5" text-align:center; width: 50%;">
 		      <!-- aqui viene el botón de pago PayPal -->
 
 		      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -82,6 +83,7 @@
 	  </div>
 
           <div class="row">
+	    <hr  style="text-align:center; width: 50%;"hr>
         
         <div class="col-xs-8 col-sm-6">
           <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
