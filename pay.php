@@ -91,9 +91,9 @@
               <!-- aqui viene el botón de pago PayPal -->
 <form name="_xclick" action="https://www.sandbox.paypal.com/es/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="librebits@gmail.com">
-<input type="hidden" name="cancel_return" value="https://librebits.info/pago_cancelado.html">
-<input type="hidden" name="return" value="https://librebits.info/pago_realizado.html">
+<input type="hidden" name="business" value="jordilopezamat@gmail.com">
+<input type="hidden" name="cancel_return" value="https://librebits.info/pay-cancel.php">
+<input type="hidden" name="return" value="https://librebits.info/pay-ok.php">
 <input type="hidden" name="cbt" value="Volver a Librebits">
 <input type="hidden" name="image_url" value="https://librebits.info/assets/images/Librebits_v3_100x.png">
 <input type="hidden" name="no_shipping" value="1">
