@@ -28,6 +28,17 @@
     text-align: center;
     }
 
+
+    hr {
+    display: block;
+    margin-before: 0.5em;
+    margin-after: 0.5em;
+    margin-start: auto;
+    margin-end: auto;
+    border-style: inset;
+    border-width: 1px; }
+    
+
     </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
