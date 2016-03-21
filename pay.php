@@ -145,7 +145,8 @@
 
   <div class="container">
 
-      <div class="row">
+    <div class="row">
+      <hr  style="text-align:center; width: 50%;"hr>
 	<div class="col-sm-9">
 	  <h4> Pagos Online a Librebits.info via TransferWise</h4>
 	  <div class="row">
