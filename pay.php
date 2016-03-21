@@ -35,7 +35,8 @@
     margin-after: 0.5em;
     margin-start: auto;
     margin-end: auto;
-    border-style: inset;
+<!-- acá fijamos el estilo de la línea, en sus bordes -->
+    border-style: double;
     border-width: 1px; }
     
 
@@ -74,7 +75,7 @@
 	  <div class="row">
 	    
 	    <div class="col-xs-8 col-sm-6">
-	      <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
+	      <p> €nergizanos con tu <i>donación</i> via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
 	    </div>
 	    <div class="col-xs-4 col-sm-6">
 	      <div class="row text-center">
@@ -97,7 +98,7 @@
 	    <hr  style="text-align:center; width: 50%;"hr>
         
         <div class="col-xs-8 col-sm-6">
-          <p> €nergizanos con tu dinero via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
+          <p> Realiza un pago via PayPal o tarjeta de crédito de forma sencilla, rápida, eficaz y segura: </p>
         </div>
         <div class="col-xs-4 col-sm-6">
                 <div class="row text-center">
@@ -151,7 +152,7 @@
 	  <h4> Pagos Online a Librebits.info via TransferWise</h4>
 	  <div class="row">
 	    <div class="col-xs-8 col-sm-6">
-	      <p> Energizano$ con dinero en otras monedas con el cambio real via TransferWise, ahorrando en comisiones: </p>
+	      <p> Envianos dinero en otras monedas con el cambio real via TransferWise, ahorrando en comisiones: </p>
 	    </div>
 	    <div class="col-xs-4 col-sm-6">
 	            <div class="row text-center">
