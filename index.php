@@ -94,7 +94,7 @@
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <p> <code> Comercio electrónico y medios de pago online </code></p>
+              <h1> <code> Comercio electrónico y medios de pago online </code></h1>
 	                   <p><h3> "¿una actividad profesional online?"</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
@@ -124,7 +124,7 @@
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
           <h2>Desarrollo Web</h2>
-          <h4>Diseño artesano a tu medida</h4>
+          <h4>Comercio/pago electrónico</h4>
 	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet.Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Enlazamos con las redes sociales desde nuestro propio espacio web.</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
