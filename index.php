@@ -116,8 +116,8 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
-          <h2>Almacenamiento, compartición y colaboración</h2>
-          <h4>basados en Cloud Computing</h4>
+          <h2>Almacenamiento y colaboración</h2>
+          <h4>basados en tu Cloud Computing</h4>
 	  <p>Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
 	  <p>Tú tienes el control absoluto de los documentos y ficheros. Ubicuidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
@@ -183,7 +183,7 @@
 
           <p class="lead"> ¿Colaboramos para que puedas disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
 	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i>? . Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-          <p> Estamos experimentando con <i>criptomonedas (Bitcoin,Faircoin)</i> y bla,bla...¿Mejor nos escribimos y seguimos charlando?</p>
+          <p> Estamos trabajando con <i>criptomonedas</i> y bla,bla...¿Mejor nos escribimos y seguimos charlando?</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
