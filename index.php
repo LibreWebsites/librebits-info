@@ -60,7 +60,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1><code>Artesanía EnLínea</code></h1>
-              <p> En <code>librebits</code>  te inspiramos en el aprendizaje, codesarrollo y adopción de las herramientas y tecnologías  que mejoren tu experiencia online.
+              <p> En <code>librebits</code> te inspiramos en el aprendizaje, codesarrollo y adopción de las herramientas y tecnologías  que mejoren tu experiencia online.
 	      </p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
@@ -72,7 +72,7 @@
             <div class="carousel-caption">
               <h1>Hecho con nuestras manos.</h1>
 	                    <h1><code>Hecho con el corazón</code>.</h1>
-              <p>Software, Redes, Sistemas, Cloud, e-learning, redes sociales... <code>librebits</code>.</p>
+              <p>Software, Redes, Sistemas, tu Cloud, e-learning, redes sociales... <code>librebits</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
           </div>
@@ -111,7 +111,7 @@
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
           <h2>Desarrollo Web</h2>
           <h4>Diseño artesano a tu medida</h4>
-	  <p>Tejemos la Web con <i>HTML5,CSS3...</i>, desarrollamos gestores de contenidos como <i>Drupal CMS </i> o el popular <i>Wordpress</i> ...y mucho más. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Enlazamos con las redes sociales desde nuestro propio espacio web.</p>
+	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet.Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Enlazamos con las redes sociales desde nuestro propio espacio web.</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -138,8 +138,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas web?</span></h2>
-          <p class="lead">Los servicios y herramientas mencionadas aquí no son más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica en la Web.</p>
+          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios web?</span></h2>
+          <p class="lead">Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica en la Web. Tu marcas el rumbo.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
@@ -150,8 +150,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Mmh..¿la 'nube'?</<span class="text-muted"> Con <a href="https://owncloud.com" >Owncloud »</a> dispón y comparte tus documentos y ficheros de forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos repartidos entre diferentes servidores, FTP o soluciones Cloud poco confiables como Dropbox. Gracias a  <a href="https://owncloud.com" >Owncloud »</a> ofrecemos una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados. Así podemos acceder a todos ellos desde cualquier lugar en cualquier con momento. Sencillamente.</p>
-	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos ownCloud en tus propios servidores.</p>					   
+          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Con herramientas como  <a href="https://owncloud.com" >Owncloud »</a> o <a href="https://syncthing.net" >Synchting »</a>   dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos repartidos entre diferentes servidores, FTP o soluciones Cloud poco confiables como Dropbox. Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todos ellos desde cualquier lugar en cualquier con momento. Sencillamente.</p>
+	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> en tus propios PCs.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
