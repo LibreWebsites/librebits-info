@@ -87,7 +87,21 @@
             </div>
           </div>
         </div>
+
+
+      <!-- más -->
+        <div class="item">
+          <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <p> <code> Comercio electrónico y medios de pago online </code></p>
+	                   <p><h3> "¿una actividad profesional online?"</h3></p>
+<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
+            </div>
+          </div>
+        </div>      
       </div>
+      
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
