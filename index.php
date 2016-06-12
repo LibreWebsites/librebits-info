@@ -123,8 +123,8 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
-          <h2>Desarrollo Web</h2>
-          <h4>Comercio/pago electrónico</h4>
+          <h2>Desarrollo</h2>
+          <h4>Web</h4>
 	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet.Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Enlazamos con las redes sociales desde nuestro propio espacio web.</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
@@ -138,8 +138,8 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
-          <h2>Desarrollo de Redes y sistemas</h2>
-          <p>Migraciones de sistemas y software propietario a sistemas y software libre. Ahorra en costes. Rejuvenece tu hardware. Libera el potencial de tus PCs.</p>
+          <h2>Asesoría de servicios online</h2>
+          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías y cualquier reto digital que se nos pueda presentar.</p>
 	  <p></p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
