@@ -123,16 +123,16 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
-          <h2>Desarrollo</h2>
-          <h4>Web</h4>
-	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet.Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Enlazamos con las redes sociales desde nuestro propio espacio web.</p>
+          <h2>Desarrollo Web</h2>
+          <h4></h4>
+	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
           <h2>Almacenamiento y colaboración</h2>
-          <h4>basados en tu Cloud Computing</h4>
-	  <p>Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
+          <h4></h4>
+	  <p>Basados en tu Cloud Computing. Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
 	  <p>Tú tienes el control absoluto de los documentos y ficheros. Ubicuidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
@@ -164,8 +164,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Con herramientas como  <a href="https://owncloud.com" >Owncloud »</a> o <a href="https://syncthing.net" >Synchting »</a>   dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos repartidos entre diferentes servidores, FTP o soluciones Cloud poco confiables como Dropbox. Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todos ellos desde cualquier lugar en cualquier con momento. Sencillamente.</p>
-	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> en tus propios PCs.</p>					   
+          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Con herramientas como  <a href="https://owncloud.com" >Owncloud »</a> o <a href="https://syncthing.net" >Synchting »</a>   dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) de forma ubicua en diferentes.</span></h2><p class="lead"> Solemos tener nuestros datos repartidos entre diferentes dispositivos, servidores o soluciones Cloud poco confiables como Dropbox. Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todos ellos desde cualquier lugar en cualquier con momento. Sencillamente.</p>
+	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> en tus propios PCs / Servidores.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
@@ -197,7 +197,7 @@
 
           <p class="lead"> ¿Colaboramos para que puedas disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
 	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i>? . Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-          <p> Estamos trabajando con <i>criptomonedas</i> y bla,bla...¿Mejor nos escribimos y seguimos charlando?</p>
+          <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>. Enontraremos sinergias.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
