@@ -164,8 +164,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Con herramientas como  <a href="https://owncloud.com" >Owncloud »</a> o <a href="https://syncthing.net" >Synchting »</a>   dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) de forma ubicua en diferentes.</span></h2><p class="lead"> Solemos tener nuestros datos repartidos entre diferentes dispositivos, servidores o soluciones Cloud poco confiables como Dropbox. Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todos ellos desde cualquier lugar en cualquier con momento. Sencillamente.</p>
-	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> en tus propios PCs / Servidores.</p>					   
+          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Trabaja en equipo, dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) de forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos e interacciones (e-mails, etc...) repartidos entre diferentes dispositivos, servidores o soluciones poco confiables y productivas. ¿Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todo ello desde cualquier lugar en cualquier con momento? Sencillamente.</p>
+	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> y herramientas de colaboración en tus propios PCs / Servidores.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
@@ -196,8 +196,9 @@
 	   <span class="text-muted">Potenciamos las posibilidades de tu red y espacio web.</span></h2
 
           <p class="lead"> ¿Colaboramos para que puedas disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
-	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i>? . Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-          <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>. Enontraremos sinergias.</p>
+	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
+          <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
+           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
