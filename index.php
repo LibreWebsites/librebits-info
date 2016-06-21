@@ -122,13 +122,15 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
+	  <span class="glyphicon glyphicon-home"></span>
+          <img class="img-circle"src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
           <h2>Desarrollo Web</h2>
           <h4></h4>
 	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
+  	  <span class="glyphicon glyphicon-cloud"></span>
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
           <h2>Almacenamiento y colaboración</h2>
           <h4></h4>
@@ -137,6 +139,8 @@
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
+	  <span class="glyphicons glyphicons-roundabout"></span>
+	  <span class="glyphicon glyphicon-shopping-cart"></span>
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
           <h2>Asesoría de servicios online</h2>
           <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías y cualquier reto digital que se nos pueda presentar.</p>
