@@ -122,8 +122,9 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-	  <span class="glyphicon glyphicon-home"></span>
-          <img class="img-circle"src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-home"></span>
+          <img class="img-circle"src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="100" width="100">
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-info-sign"></span>
           <h2>Desarrollo Web</h2>
           <h4></h4>
 	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p>
