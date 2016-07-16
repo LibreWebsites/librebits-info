@@ -72,7 +72,7 @@
             <div class="carousel-caption">
               <h1>Hecho con nuestras manos.</h1>
 	                    <h1><code>Hecho con el corazón</code>.</h1>
-              <p>Software, Redes, Sistemas, tu Cloud, e-learning, redes sociales... <code>librebits</code>.</p>
+              <p>Software, Redes, Sistemas, Colaboración / Comercio y Enseñanza-Aprendizaje online , Redes sociales... <code>librebits</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
           </div>
