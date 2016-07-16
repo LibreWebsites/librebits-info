@@ -87,7 +87,21 @@
             </div>
           </div>
         </div>
+
+
+      <!-- más -->
+        <div class="item">
+          <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1> <code> Comercio electrónico y medios de pago online </code></h1>
+	                   <p><h3> "¿una actividad profesional online?"</h3></p>
+<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
+            </div>
+          </div>
+        </div>      
       </div>
+      
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -108,24 +122,40 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
-          <h2>Desarrollo Web</h2>
-          <h4>Diseño artesano a tu medida</h4>
-	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet.Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Enlazamos con las redes sociales desde nuestro propio espacio web.</p>
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-home"></span>
+
+	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+        
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-info-sign"></span>
+
+	  <h2>Desarrollo Web</h2>
+          <h4></h4>
+	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
+  	  <span style="font-size:2.5em;" class="glyphicon glyphicon-cloud"></span>
+	  
+          <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+	  
+	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
           <h2>Almacenamiento y colaboración</h2>
-          <h4>basados en tu Cloud Computing</h4>
-	  <p>Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
+          <h4></h4>
+	  <p>Basados en tu Cloud Computing. Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
 	  <p>Tú tienes el control absoluto de los documentos y ficheros. Ubicuidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" height="140" width="140">
-          <h2>Desarrollo de Redes y sistemas</h2>
-          <p>Migraciones de sistemas y software propietario a sistemas y software libre. Ahorra en costes. Rejuvenece tu hardware. Libera el potencial de tus PCs.</p>
+	  <span class="glyphicons glyphicons-roundabout"></span>
+
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-user"></span>
+	  
+	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
+          
+          <h2>Asesoría de servicios online</h2>
+          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías y cualquier reto digital que se nos pueda presentar.</p>
 	  <p></p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
@@ -150,8 +180,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Con herramientas como  <a href="https://owncloud.com" >Owncloud »</a> o <a href="https://syncthing.net" >Synchting »</a>   dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos repartidos entre diferentes servidores, FTP o soluciones Cloud poco confiables como Dropbox. Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todos ellos desde cualquier lugar en cualquier con momento. Sencillamente.</p>
-	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> en tus propios PCs.</p>					   
+          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Trabaja en equipo, dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) de forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos e interacciones (e-mails, etc...) repartidos entre diferentes dispositivos, servidores o soluciones poco confiables y productivas. ¿Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todo ello desde cualquier lugar en cualquier con momento? Sencillamente.</p>
+	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> y herramientas de colaboración en tus propios PCs / Servidores.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
@@ -182,8 +212,9 @@
 	   <span class="text-muted">Potenciamos las posibilidades de tu red y espacio web.</span></h2
 
           <p class="lead"> ¿Colaboramos para que puedas disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
-	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i>? . Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-          <p> Estamos trabajando con <i>criptomonedas</i> y bla,bla...¿Mejor nos escribimos y seguimos charlando?</p>
+	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
+          <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
+           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
