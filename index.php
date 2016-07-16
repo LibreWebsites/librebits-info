@@ -207,13 +207,12 @@
 
             <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> ¿Red privada virtual(VPN)?¿Correo-e seguro y privado?¿pagos online?<span></h2>
+          <h2 class="featurette-heading"> ¿Comercio/pagos online?<span></h2>
 
-	   <span class="text-muted">Potenciamos las posibilidades de tu red y espacio web.</span></h2
-
-          <p class="lead"> ¿Colaboramos para que puedas disponer de tus conexiones privadas de red entre sedes y puestos de trabajo? Las desarrollamos de forma segura, encriptándolas. A salvo de fisgones online... </p>
+	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
 	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-          <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
+
+	  <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
            <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
         </div>
         <div class="col-md-5 col-md-pull-7">
