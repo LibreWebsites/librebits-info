@@ -81,8 +81,8 @@
           <img class="third-slide" src="assets/images/slideshow/colibri-wide.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Usamos licencias de <code>software libre</code></h1>
-              <p>Vamos más allá de las ataduras del software propietario...Cuando quieras, simplemente cambias de colaborador, pero no de solución técnica....</p>
+              <h1>Desarrollamos con licencias de <code>software libre</code></h1>
+              <p>Vamos más allá de las ataduras del software propietario...Cuando quieras, simplemente cambias de colaborador, pero no de solución técnica.</p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">( Adiós al "vendor-locking")</a></p> -->
             </div>
           </div>
@@ -139,10 +139,10 @@
           <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
 	  
 	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
-          <h2>Almacenamiento y colaboración</h2>
+          <h2>Colaboración y almacenamiento  online</h2>
           <h4></h4>
-	  <p>Basados en tu Cloud Computing. Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
-	  <p>Tú tienes el control absoluto de los documentos y ficheros. Ubicuidad.</p>
+	  <p>Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
+	  <p>Tú y tu equipo tiene el control absoluto de los documentos y ficheros. En cualquier dispositivo. Ubicuidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -155,7 +155,7 @@
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
           <h2>Asesoría de servicios online</h2>
-          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías y cualquier reto digital que se nos pueda presentar.</p>
+          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular.</p>
 	  <p></p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
@@ -167,9 +167,28 @@
       <hr class="featurette-divider">
 
       <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading"> ¿Comercio/pagos online?<span></h2>
+
+	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
+	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
+
+	  <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
+           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+
+      
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios web?</span></h2>
-          <p class="lead">Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica en la Web. Tu marcas el rumbo.</p>
+          <p class="lead">Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica en la Web. Tu marcas el rumbo. A continuación algunas cosas que desarrollamos en estos momentos... </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
@@ -181,7 +200,7 @@
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Trabaja en equipo, dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) de forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos e interacciones (e-mails, etc...) repartidos entre diferentes dispositivos, servidores o soluciones poco confiables y productivas. ¿Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todo ello desde cualquier lugar en cualquier con momento? Sencillamente.</p>
-	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>Nube »</i> y herramientas de colaboración en tus propios PCs / Servidores.</p>					   
+	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>la colaboración online »</i> y herramientas de colaboración en tus propios PCs / Servidores.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
@@ -197,6 +216,7 @@
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
 	  <p class="lead"> 
 	    Facilitamos el desarrollo y dinamización de comunidades online ... Aula virtual, Wiki, redes sociales orientadas a la enseñanza-aprendizaje y mucho más.</p>
+	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata.png" alt="Generic placeholder image">
@@ -205,21 +225,7 @@
 
       <hr class="featurette-divider">
 
-            <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> ¿Comercio/pagos online?<span></h2>
-
-	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
-	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-
-	  <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
-           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
-        </div>
-      </div>
-
+            
       <!-- /END THE FEATURETTES -->
 
 
