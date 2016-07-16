@@ -147,7 +147,7 @@ obviar primera columna                 <a href="https://www.android.com/" target
 
 <!-- más logos - weapons aquí : ...-->
 
-
+	<h4 class="display">...aunque probablemente hayamos olvidado mencionar alguna ;-) </h4>
 
 </section>
 
