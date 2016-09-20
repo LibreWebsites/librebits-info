@@ -33,6 +33,19 @@
     text-align: center;
     }
 
+    ol {
+    background: #ff9999;
+    padding: 20px;
+    }
+
+    ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+    }
+
+    }
+
     </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -69,15 +82,15 @@
 	<!--    <h4 class="display">We praise them. They empower us.</h4><img src="static/images/tux.svg" alt="TUX" class="tux"> -->
 	<h4 class="display"> Experimentación autónoma y la resolución creativa de problemas. Estableciendo  una relación sana con las nuevas tecnologías desde el juego no directivo.</h4>
 
-	<ul class="weapons-logos">
+	<ol class="weapons-logos">
 
-	  <li> <i> arte y expresión digital: imagen, vídeo, sonido, música,… </i> </li>
+	  <li> Arte y expresión digital: imagen, vídeo, sonido, música,… </li>
 
-	  <li> lógica básica: iniciación a la programación de videojuegos (Scratch, Codecombat,…) </li>
+	  <li> Lógica básica: iniciación a la programación de videojuegos (Scratch,…) </li>
 
-	  <li> robótica educativa (Arduino,…) </li>
+	  <li> Robótica educativa (Arduino,…) </li>
 
-	</ul>
+	</ol>
 
         <p>.</p>
 	<p>.</p>
