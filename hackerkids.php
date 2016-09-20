@@ -67,11 +67,11 @@
 	<h2 class="orange">Hackerkids</h2>
 	<h4 class="display">proyecto escolar</h4><img src="logos/GNUlinux.svg.png" alt="GNU/Linux" class="tux">
 	<!--    <h4 class="display">We praise them. They empower us.</h4><img src="static/images/tux.svg" alt="TUX" class="tux"> -->
-	<h5 class="display"> Como establecer una relación sana con las nuevas tecnologías desde el juego no directivo, la experimentación autónoma y la resolución creativa de problemas.</h5>
+	<h4 class="display"> Experimentación autónoma y la resolución creativa de problemas. Estableciendo  una relación sana con las nuevas tecnologías desde el juego no directivo.</h4>
 
 	<ul class="weapons-logos">
 
-	  <li> arte y expresión digital: imagen, vídeo, sonido, música,…  </li>
+	  <li> <i> arte y expresión digital: imagen, vídeo, sonido, música,… </i> </li>
 
 	  <li> lógica básica: iniciación a la programación de videojuegos (Scratch, Codecombat,…) </li>
 
@@ -79,8 +79,9 @@
 
 	</ul>
 
-
-	  
+        <p>.</p>
+	<p>.</p>
+	<p>.</p>
 	  
 	<h5 class="display">...en (permanente) construcción ;-) </h4>
 
