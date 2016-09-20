@@ -72,7 +72,7 @@
             <div class="carousel-caption">
               <h1>Hecho con nuestras manos.</h1>
 	                    <h1><code>Hecho con el corazón</code>.</h1>
-              <p>Software, Redes, Sistemas, Colaboración / Comercio y Enseñanza-Aprendizaje online , Redes sociales... <code>librebits</code>.</p>
+              <p>Software, Redes, Sistemas, Colaboración / Comercio y procesos de Enseñanza-Aprendizaje online... <code>librebits</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
           </div>
@@ -94,7 +94,7 @@
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> <code> Comercio electrónico y medios de pago online </code></h1>
+              <h1> <code> Comercio electrónico y medios de pago electrónico </code></h1>
 	                   <p><h3> "¿una actividad profesional online?"</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>

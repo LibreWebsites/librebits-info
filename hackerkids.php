@@ -77,7 +77,7 @@
 
 
       <section id="weapons" class="row">
-	<h2 class="orange">Hackerkids</h2>
+	<h2 class="orange">HackerKids</h2>
 	<h4 class="display">proyecto escolar</h4><img src="logos/GNUlinux.svg.png" alt="GNU/Linux" class="tux">
 	<!--    <h4 class="display">We praise them. They empower us.</h4><img src="static/images/tux.svg" alt="TUX" class="tux"> -->
 	<h4 class="display"> Experimentación autónoma y la resolución creativa de problemas. Estableciendo  una relación sana con las nuevas tecnologías desde el juego no directivo.</h4>

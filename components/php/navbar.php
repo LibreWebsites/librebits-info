@@ -27,6 +27,7 @@
 		    <li><a href="software-libre.php">¿Qué es el software libre?</a></li>
                   </ul>
                 </li>
+		<li><a href="hackerkids.php"> HackerKids </a></li>
 		<li><a href="pay.php"> €nergiza </a></li>
                 <li><a href="contact.php">Contacta</a></li>
               </ul>
