@@ -139,48 +139,6 @@
 
     
 
-    <!-- TransferWise option >> transferwise.com
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-
-  <div class="container">
-
-    <div class="row">
-      <hr  style="text-align:center; width: 50%;"hr>
-	<div class="col-sm-9">
-	  <h4> Pagos Online a Librebits.info via TransferWise</h4>
-	  <div class="row">
-	    <div class="col-xs-8 col-sm-6">
-	      <p> Envianos dinero en otras monedas con el cambio real via TransferWise, ahorrando en comisiones: </p>
-	    </div>
-	    <div class="col-xs-4 col-sm-6">
-	            <div class="row text-center">
-		      <p><a href="https://transferwise.com"> <img alt="TransferWise logo" src="assets/images/Transferwise_logo.png" ></a></p>
-		    </div>
-	    </div>
-	  </div>
-
-	  <!-- aqui viene la nested row para PayPal -->
-	  <div class="row">
-	    <div class="col-xs-8 col-sm-6">
-	      <p></p>
-	    </div>
-	    <div class="col-xs-4 col-sm-6">
-	            <div class="row text-center">
-		      <p></p>
-		    </div>
-	    </div>
-	  </div>
-	  
-	</div>
-	</div>
-
-  </div>
-
-
-</div><!-- /.container -->
-
   
     <!-- Bootstrap core JavaScript
     ================================================== -->
