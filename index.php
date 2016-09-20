@@ -168,7 +168,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> ¿Comercio/pagos online?<span></h2>
+          <h2 class="featurette-heading"> ¿Comercio/pago electrónico?<span></h2>
 
 	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
 	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
