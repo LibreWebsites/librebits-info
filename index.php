@@ -214,9 +214,9 @@
           <h2 class="featurette-heading">Maestros-aprendices<span class="text-muted"> Exploradores. Buscadores... </span></h2>
           <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje.
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
-	  <p class="lead"> 
-	    Facilitamos el desarrollo y dinamización de comunidades online ... Aula virtual, Wiki, redes sociales orientadas a la enseñanza-aprendizaje y mucho más.</p>
-	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
+	  <p class="lead">
+	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="hackerkids.php" role="button">HackerKid(s) »</a>.</p>
+	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Escríbenos un eMail >></a></p>	  
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata.png" alt="Generic placeholder image">
