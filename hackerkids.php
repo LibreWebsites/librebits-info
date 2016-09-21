@@ -4,7 +4,7 @@
     <!--- here goes meta.php -->
     <?php include "components/php/meta.php"; ?>
     
-    <title>Librebits | Herramientas</title>
+    <title>Librebits | HackerKids</title>
 
     <!-- Bootstrap core CSS -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/bootstrap.css" rel="stylesheet">
