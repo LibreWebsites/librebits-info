@@ -19,15 +19,15 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprender<span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-header">Compartiendo y desarrollando</li>
-                    <li><a href="herramientas.php">Herramientas colectivas...</li>
+                    <li class="dropdown-header">en colaboración con escuelas:</li>
+		    <li><a href="hackerkids.php"> proyecto HackerKids </a></li>
+<!-- ocultado                    <li><a href="herramientas.php">Herramientas colectivas...</li> -->
                     <li role="separator" class="divider"></li>
                     <li class="dropdown-header">... autonomía tecnológica</li>
        		  <!--  <li><a href="software-libre.php">¿Qué es el software libre?</a></li> -->
 		    <li><a href="software-libre.php">¿Qué es el software libre?</a></li>
                   </ul>
                 </li>
-		<li><a href="hackerkids.php"> HackerKids </a></li>
 		<li><a href="pay.php"> €nergiza </a></li>
                 <li><a href="contact.php">Contacta:</a></li>
               </ul>
