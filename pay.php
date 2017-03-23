@@ -103,7 +103,7 @@
         <div class="col-xs-4 col-sm-6">
                 <div class="row text-center">
               <!-- aqui viene el botón de pago PayPal -->
-<form name="_xclick" action="https://www.sandbox.paypal.com/es/cgi-bin/webscr" method="post">
+<form name="_xclick" action="https://www.paypal.com/es/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jordilopezamat@gmail.com">
 <input type="hidden" name="cancel_return" value="https://librebits.info/pay-cancel.php">
