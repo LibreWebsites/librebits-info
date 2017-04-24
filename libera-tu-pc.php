@@ -4,7 +4,7 @@
     <!--- here goes meta.php -->
     <?php include "components/php/meta.php"; ?>
     
-    <title>Librebits | HackerKids</title>
+    <title> Librebits | Actualiza / migra </title>
 
     <!-- Bootstrap core CSS -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/bootstrap.css" rel="stylesheet">
@@ -80,7 +80,7 @@
 	<h2 class="orange">Te acompañamos en la actualización/migración del software de tu PC</h2>
 	<h4 class="display">... cambia de sistema operativo</h4><img src="logos/GNUlinux.svg.png" alt="GNU/Linux" class="tux">
 	<!--    <h4 class="display">We praise them. They empower us.</h4><img src="static/images/tux.svg" alt="TUX" class="tux"> -->
-	<h4 class="display">  Evolucionando, pasito a paso... abriéndonos a  <br> establecer  una relación sana con las nuevas tecnologías <br>  desde el software libre. El tuyo, el nuestro.</h4>
+	<h4 class="display">  Evolucionando, pasito a paso... abriéndonos a  <br> establecer  una relación sana, placentera y productiva con las nuevas tecnologías <br>  desde el software libre. El tuyo, el nuestro.</h4>
 
 	<ol class="weapons-logos">
 
@@ -88,7 +88,7 @@
 
 	  <li> Disfruta de miles de aplicaciones libres y gratuitas ( edición de documentos con LibreOffice , Firefox / Chrome...)  </li>
 
-	  <li> Usa / participa en la comunidad del software libre </li>
+	  <li> <p> Usa / participa en la comunidad del software libre </p><p> Te acompañamos en un proceso de crecimiento tecnológico... Actualizamos / Migramos / Liberamos tus sistemas / servidores PCs </li>
 
 	</ol>
 
