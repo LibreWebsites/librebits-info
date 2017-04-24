@@ -100,7 +100,7 @@
 
 	..
  
-	   <p> Migra/actualiza/libera todo el potencial tus sistemas al software más potente hoy...</p> <i>Sin fricción ni ataduras »</i> <p> Empodera tus PCs / Servidores y multiplica sus posibilidades. Que trabajen por tí.</p> <p> No al revés.</p>					   
+	   <p> Migra/actualiza/libera todo el potencial tus sistemas al software más potente hoy...</p> <i>Sin fricción ni ataduras »</i> <p> Empodera tus PCs / Servidores y multiplica sus posibilidades.</p><p> Que trabajen por tí.</p> <p> No al revés.</p>					   
 ..
 	
 	<h5 class="display">... Empoderate. Libera tu   <a href="http://www.ubuntu-es.org/sobre_ubuntu" role="button"> PC con Ubuntu »</a>  </h4>
