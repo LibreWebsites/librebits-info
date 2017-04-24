@@ -80,23 +80,30 @@
 	<h2 class="orange">Te acompañamos en la actualización/migración del software de tu PC</h2>
 	<h4 class="display">... cambia de sistema operativo</h4><img src="logos/GNUlinux.svg.png" alt="GNU/Linux" class="tux">
 	<!--    <h4 class="display">We praise them. They empower us.</h4><img src="static/images/tux.svg" alt="TUX" class="tux"> -->
-	<h4 class="display">  Evolucionando, pasito a paso... abriéndonos a  <br> establecer  una relación sana, placentera y productiva con las nuevas tecnologías <br>  desde el software libre. El tuyo, el nuestro.</h4>
+	<h4 class="display">  Evolucionando, pasito a paso... abriéndonos a  <br> establecer  una relación sana, placentera y productiva con las nuevas tecnologías <br>  <a href="software-libre.php">del software libre </a>. El tuyo, el nuestro. Empoderándonos.</h4>
 
+
+	
 	<ol class="weapons-logos">
 
 	  <li> Olvidate de virus, software malicioso, la creciente ralentazación del PC ... rejuevenécelo ! </li>
 
 	  <li> Disfruta de miles de aplicaciones libres y gratuitas ( edición de documentos con LibreOffice , Firefox / Chrome...)  </li>
 
-	  <li> <p> Usa / participa en la comunidad del software libre </p><p> Te acompañamos en un proceso de crecimiento tecnológico... Actualizamos / Migramos / Liberamos tus sistemas / servidores PCs </li>
+	  <li> <p> Usalo y participa en la comunidad <a href="software-libre.php">del software libre </a> </p><p> Te acompañamos en un proceso de crecimiento tecnológico... Actualizamos / Migramos / Liberamos tus sistemas / PCs </li>
 
 	</ol>
 
         <p>.</p>
 	<p>.</p>
 	<p>.</p>
-	  
-	<h5 class="display">... libera tu   <a href="http://www.ubuntu-es.org/sobre_ubuntu" role="button"> PC con Ubuntu »</a>  </h4>
+
+	..
+ 
+	   <p> Migra/actualiza/libera todo el potencial tus sistemas al software más potente hoy...</p> <i>Sin fricción ni ataduras »</i> <p> Empodera tus PCs / Servidores y multiplica sus posibilidades. Que trabajen por tí.</p> <p> No al revés.</p>					   
+..
+	
+	<h5 class="display">... Empoderate. Libera tu   <a href="http://www.ubuntu-es.org/sobre_ubuntu" role="button"> PC con Ubuntu »</a>  </h4>
 
 </section>
 

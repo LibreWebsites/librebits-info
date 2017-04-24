@@ -72,7 +72,7 @@
             <div class="carousel-caption">
               <h1>Hecho con nuestras manos.</h1>
 	                    <h1><code>Hecho con el corazón</code>.</h1>
-              <p>Software, Redes, Sistemas, Colaboración / Comercio y procesos de Enseñanza-Aprendizaje online... <code>librebits</code>.</p>
+              <p>Software, Redes, Sistemas, Colaboración / Comercio-e, Datos en tiempo real...y más!. <code>Librebits</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
           </div>
@@ -94,8 +94,8 @@
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> <code> Comercio electrónico y medios de pago electrónico </code></h1>
-	                   <p><h3> "¿una actividad profesional online?"</h3></p>
+              <h1> <code> Comercio  y medios de pago electrónicos </code></h1>
+	                   <p><h3> "¿desarrollas una actividad profesional online?"</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
@@ -155,7 +155,7 @@
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
           <h2>Asesoría de servicios online</h2>
-          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular.</p>
+          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago, conectividad, datos y visualiazción en tiempo real, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular. Potenciamos tuproyecto.</p>
 	  <p></p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
@@ -187,8 +187,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios web?</span></h2>
-          <p class="lead">Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica en la Web. Tu marcas el rumbo. A continuación algunas cosas que desarrollamos en estos momentos... </p>
+          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios en la web?</span></h2>
+          <p class="lead">Potenciamos tu proyecto. .. Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica y eficiente en la Web. Tu marcas el rumbo. A continuación algunas (entre otras) cosas que desarrollamos en estos momentos... </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
@@ -212,7 +212,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Maestros-aprendices<span class="text-muted"> Exploradores. Buscadores... </span></h2>
-          <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje.
+          <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje colectivos.
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
 	  <p class="lead">
 	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="hackerkids.php" role="button">HackerKid(s) »</a>.</p>
