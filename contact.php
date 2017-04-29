@@ -22,8 +22,6 @@
     margin-bottom: 3cm;
     }
 
-    .product .img-responsive {
-    margin: 0 auto;
     }
 </style>
 
@@ -59,7 +57,7 @@
 	<div class="col-sm-4 col-sm-offset-4">
 	  <img class="img-circle img-responsive" src="assets/images/Librebits_email_v2.png">
 	  <div class="text-center">
-	    <img class="social product" src="assets/images/contacto-saberes-nomadas.png">
+	    <img class="social" src="assets/images/contacto-saberes-nomadas.png">
 	  </div>
 	  
 	  
