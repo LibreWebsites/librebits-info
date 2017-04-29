@@ -43,7 +43,7 @@
       <div class="row" style="border-top: 0">
 	<!-- Profile info -->
 	<div class="col-sm-4 col-sm-offset-4">
-	  <img class="img-circle img-responsive" src="https://files.allaboutbirds.net/wp-content/themes/html5blank-stable/images/blue-winged-warbler.jpg">
+	  <img class="img-circle img-responsive" src="assets/images/Librebits_email_v2.png">
 	  <h1 class="text-center" style="color: #3FA2B2">Callum Messiter</h1>
 	  <p class="text-center">100-trillion cells and 100-billion neurons defying the 1 in 10<sup>2,685,000</sup> chance of me existing.</p>
 	  <div class="text-center">
