@@ -20,7 +20,11 @@
 
     .bottom-three {
     margin-bottom: 3cm;
-      }
+    }
+
+    .product .img-responsive {
+    margin: 0 auto;
+    }
 </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -55,12 +59,12 @@
 	<div class="col-sm-4 col-sm-offset-4">
 	  <img class="img-circle img-responsive" src="assets/images/Librebits_email_v2.png">
 	  <div class="text-center">
-	    <img class="social" src="assets/images/contacto-saberes-nomadas.png">
+	    <img class="social product" src="assets/images/contacto-saberes-nomadas.png">
 	  </div>
 	  
 	  
-	  <h1 class="text-center" style="color: #3FA2B2">¿buscamos sinergias?</h1>
-	  <p class="text-center">no dudes en escribirnos :-) </p>
+	  <h1 class="text-right" style="color: #3FA2B2">¿buscamos sinergias?</h1>
+	  <p class="text-right">no dudes en escribirnos :-) </p>
 	  </div>
 	</div>
       </div>
