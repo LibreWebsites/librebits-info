@@ -44,10 +44,11 @@
 	<img src="assets/images/Librebits_email_v2.png" >
       </div>
 
-      
       <div class="row text-center">
-	<img src="assets/images/contacto-saberes-nomadas.png" >
+	<img src="assets/images/Librebits_email_v2.png" >
       </div>
+      
+
       
       <!-- FOOTER  \!/ - no alineado - margen - container ?
 
