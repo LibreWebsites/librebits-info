@@ -39,16 +39,38 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
 
-
-      <div class="row text-center">
-	<img src="assets/images/Librebits_email_v2.png" class="img-responsive" alt="Responsive image">
+    <div class="container-fluid">
+      <div class="row" style="border-top: 0">
+	<!-- Profile info -->
+	<div class="col-sm-4 col-sm-offset-4">
+	  <img class="img-circle img-responsive" src="https://files.allaboutbirds.net/wp-content/themes/html5blank-stable/images/blue-winged-warbler.jpg">
+	  <h1 class="text-center" style="color: #3FA2B2">Callum Messiter</h1>
+	  <p class="text-center">100-trillion cells and 100-billion neurons defying the 1 in 10<sup>2,685,000</sup> chance of me existing.</p>
+	  <div class="text-center">
+	    <img class="social" src="https://files.allaboutbirds.net/wp-content/themes/html5blank-stable/images/blue-winged-warbler.jpg">
+	    <img class="social" src="https://files.allaboutbirds.net/wp-content/themes/html5blank-stable/images/blue-winged-warbler.jpg">
+	  </div>
+	</div>
       </div>
+      </div>
+    
+<!-- test -->
 
-      
-      <div class="row text-center">
+      <div class="text-center">
+	<img src="assets/images/Librebits_email_v2.png" class="img-responsive" alt="Responsive image">
 	<img src="assets/images/contacto-saberes-nomadas.png" class="img-responsive" alt="Responsive image">
       </div>
+
       
+      <div class="row text-center">
+
+      </div>
+
+
+      
+
+
+
       <!-- FOOTER  \!/ - no alineado - margen - container ?
 
   
