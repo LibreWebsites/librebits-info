@@ -56,7 +56,7 @@
 	  <h1 class="text-center" style="color: #3FA2B2">Callum Messiter</h1>
 	  <p class="text-center">100-trillion cells and 100-billion neurons defying the 1 in 10<sup>2,685,000</sup> chance of me existing.</p>
 	  <div class="text-center">
-	    <img class="social" src="https://files.allaboutbirds.net/wp-content/themes/html5blank-stable/images/blue-winged-warbler.jpg">
+	    <img class="social" src="assets/images/contacto-saberes-nomadas.png">
 	    <img class="social" src="https://files.allaboutbirds.net/wp-content/themes/html5blank-stable/images/blue-winged-warbler.jpg">
 	  </div>
 	</div>
