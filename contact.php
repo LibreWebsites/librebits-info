@@ -62,7 +62,7 @@
 	  
 	  
 	  <h1 class="text-right" style="color: #3FA2B2">¿buscamos sinergias?</h1>
-	  <p class="text-right">no dudes en escribirnos :-) </p>
+	  <p class="text-right">no dudes en escribirnos a 'hola [en] librebits.info' :-) </p>
 	  </div>
 	</div>
       </div>
