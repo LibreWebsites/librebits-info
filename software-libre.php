@@ -68,13 +68,13 @@
 		<p>
 		  La definición de software libre estipula los criterios que se tienen que
 		  cumplir para que un programa sea considerado libre.Más abajo en esta página,
-		  nos hacemos eco de la <a href="https://gnu.org/philosophy/free-sw.es.html">definición filosófica que da la propia Free Software Foundation, desde su proyecto GNU</a>.
+		  nos hacemos eco de la <a href="https://gnu.org/philosophy/free-sw.es.html">definición filosófica que da la propia Free Software Foundation, desde su proyecto GNU</a>. Acá un <a href="https://download.fsfe.org/videos/15years/15years-FSFE.webm">video de la FSFE ilustrativo  (en inglés)</a>.
 		</p>
 		</blockquote>
 
 	      <p>
 		«Software libre» es el software que respeta la libertad de los usuarios y la
-		comunidad. A grandes rasgos, significa que <b>los usuarios tienen la
+		comunidad. A grandes rasgos, significa que <b>los usuari@s tienen la
 		  libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el
 		  software</b>. Es decir, el «software libre» es una cuestión de libertad, no
 		de precio. Para entender el concepto, piensa en «libre» como en «libre
@@ -85,16 +85,16 @@
 
 	      <p>
 		Promovemos estas libertades porque todos merecemos disfrutarlas. Con estas
-		libertades, los usuarios (tanto individualmente como en forma colectiva)
-		controlamos el programa y lo que este hace. Cuando los usuarios no controlamos
+		libertades, los usuari@s (tanto individualmente como en forma colectiva)
+		controlamos el programa y lo que este hace. Cuando los usuari@s no controlamos
 		el programa, decimos que dicho programa «no es libre», o que es
-		«privativo».  Un programa que no es libre nos controla a nosotros,los usuarios, y el
+		«privativo».  Un programa que no es libre nos controla a nosotros,los usuari@s, y el
 		programador controla el programa, con lo cual el programa resulta ser un instrumento de
 		  poder injusto.
 	      </p>
 
 	      <p>
-		Un programa es software libre si los usuarios tienen las cuatro libertades
+		Un programa es software libre si los usuari@s tienen las cuatro libertades
 		esenciales:
 	      </p>
 
@@ -115,7 +115,7 @@
 	      </ul>
 
 	      <p>
-		Un programa es software libre si nos otorga a los usuarios todas estas
+		Un programa es software libre si nos otorga a l@s usuari@s todas estas
 		libertades de manera adecuada.</p>
 	      <img src="logos/GNUlinux.svg.png" >
     </div>

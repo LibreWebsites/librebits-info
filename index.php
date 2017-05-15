@@ -72,7 +72,7 @@
             <div class="carousel-caption">
               <h1>Hecho con nuestras manos.</h1>
 	                    <h1><code>Hecho con el corazón</code>.</h1>
-              <p>Software, Redes, Sistemas, Colaboración / Comercio y procesos de Enseñanza-Aprendizaje online... <code>librebits</code>.</p>
+              <p>Software, Redes, Sistemas, Colaboración / Comercio-e, Datos en tiempo real...y más!. <code>Librebits</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
           </div>
@@ -94,8 +94,8 @@
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> <code> Comercio electrónico y medios de pago electrónico </code></h1>
-	                   <p><h3> "¿una actividad profesional online?"</h3></p>
+              <h1> <code> Comercio  y medios de pago electrónicos </code></h1>
+	                   <p><h3> "¿desarrollas una actividad profesional online?"</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
@@ -130,7 +130,7 @@
 
 	  <h2>Desarrollo Web</h2>
           <h4></h4>
-	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p>
+	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos.</i></p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -139,10 +139,10 @@
           <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
 	  
 	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
-          <h2>Colaboración y almacenamiento  online</h2>
+          <h2>Sistemas, Colaboración y almacenamiento  online</h2>
           <h4></h4>
-	  <p>Desarrollamos contigo herramientas de colaboración online para hacer más fluida y ágil nuestra actividad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos y ficheros. En cualquier dispositivo. Ubicuidad.</p>
+	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
+	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -155,7 +155,7 @@
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
           <h2>Asesoría de servicios online</h2>
-          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago,conectividad, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular.</p>
+          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago, conectividad, datos y visualiazción en tiempo real, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular. Potenciamos tuproyecto.</p>
 	  <p></p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
@@ -187,8 +187,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios web?</span></h2>
-          <p class="lead">Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica en la Web. Tu marcas el rumbo. A continuación algunas cosas que desarrollamos en estos momentos... </p>
+          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios en la web?</span></h2>
+          <p class="lead">Potenciamos tu proyecto. .. Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica y eficiente en la Web. Tu marcas el rumbo. A continuación algunas (entre otras) cosas que desarrollamos en estos momentos... </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
@@ -212,7 +212,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Maestros-aprendices<span class="text-muted"> Exploradores. Buscadores... </span></h2>
-          <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje.
+          <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje colectivos.
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
 	  <p class="lead">
 	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="hackerkids.php" role="button">HackerKid(s) »</a>.</p>
@@ -220,6 +220,19 @@
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+
+            <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">¿llegó la hora de actualizar/migrar </<span class="text-muted"> tus sistemas/servidores/PCs ?, hazlo con todas las garantías.</span></h2><p class="lead"> Con una visión de conjunto, tus herramientas  diseminadas en varios dispositivos, son capaces de orquestarse con más armonía. Migra/actualiza/libera tus sistemas al software más potente actualmente. Sencillamente.</p>
+	   <p>En un proceso clave en las herramientas que te acompañan día,día... preguntanos como mejoramos en comodidad y productividad. <i>Sin ataduras »</i>  <a href="libera-tu-pc.php">Empodera tus PCs / Servidores y multiplica sus posibilidades.</a> Que trabajen por tí. No al revés.</p>					   
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
         </div>
       </div>
 

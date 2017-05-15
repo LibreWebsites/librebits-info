@@ -11,19 +11,11 @@
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="Carousel%20Template%20for%20Bootstrap_files/ie-emulation-modes-warning.js"></script>
-    <style>.carbonad,
+    <script src="Carousel%20Template%20for%20Bootstrap_files/ie-emulation-modes-warning.js"></script><style>.carbonad,
 #content > #right > .dose > .dosesingle,
 #content > #center > .dose > .dosesingle,
 #carbonads-container
-    {display:none !important;}
-
-    .bottom-three {
-    margin-bottom: 3cm;
-    }
-
-    }
-</style>
+{display:none !important;}</style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -46,31 +38,18 @@
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <!-- espaciador
-    <p class="bottom-three">
+
+
+      <div class="row text-center">
+	<img src="assets/images/Librebits_email_v2.png" >
+      </div>
+
+      <div class="row text-center">
+	<img src="assets/images/Librebits_email_v2.png" >
+      </div>
       
-      </p> -->
 
-    <div class="container-fluid">
-      <div class="row" style="border-top: 0">
-	<!-- Profile info -->
-	<div class="col-sm-4 col-sm-offset-4">
-	  <img class="img-circle img-responsive" src="assets/images/Librebits_email_v2.png">
-	  <div class="text-center">
-	    <img class="social" src="assets/images/contacto-saberes-nomadas.png">
-	  </div>
-	  
-	  
-	  <h1 class="text-right" style="color: #3FA2B2">¿buscamos sinergias?</h1>
-	  <p class="text-right">no dudes en escribirnos a 'hola [en] librebits.info' :-) </p>
-	  </div>
-	</div>
-      </div>
-      </div>
-    
-<!-- test -->
-     
-
+      
       <!-- FOOTER  \!/ - no alineado - margen - container ?
 
   
