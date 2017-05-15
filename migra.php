@@ -91,9 +91,9 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> Que te invitemos a migrar tus PCs a sistemas robustos <span></h2>
+          <h2 class="featurette-heading"> Queremos compartir una reciente historia contigo...  <span></h2>
 
-	   <span class="text-muted">... no es gratuito </span></h2
+	   <span class="text-muted">... la de <i>Telefónica</i> y <i>WannaCry</i> </span></h2
 	  <p class="lead"> <p>Bla </p>
            <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
         </div>
@@ -122,7 +122,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">...que podemos aprender <span class="text-muted"> ¿de Telefónica y el código malicioso WannaCry?</span></h2>
-          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el obsoleto Windows XP y sucesores</i> u otras sistemas operativos endebles?. Queremos compartir una reciente historia contigo... </p>
+          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el obsoleto Windows XP y sucesores</i> u otras sistemas operativos endebles?. </p>
 
 	  <p> Esto le sucedió a la mayor empresa tecnologica espñola <i>Telefónica</i>... (entre otras) como mero ejemplo <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a></p>
         </div>
@@ -218,8 +218,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted"> Trabaja en equipo, dispón y comparte tus documentos y ficheros (fotos/audio/video, etc...) de forma ubicua.</span></h2><p class="lead"> Solemos tener nuestros datos e interacciones (e-mails, etc...) repartidos entre diferentes dispositivos, servidores o soluciones poco confiables y productivas. ¿Una única capa de acceso para todos nuestros ficheros que antes se encontraban diseminados en varios dispositivos. Así podemos acceder a todo ello desde cualquier lugar en cualquier con momento? Sencillamente.</p>
-	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>la colaboración online »</i> y herramientas de colaboración en tus propios PCs / Servidores.</p>					   
+          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted">  Que te invitemos a migrar tus PCs a sistemas robustos ... no es gratuito </span></h2><p class="lead"> Solemos tener nuestros datos e interacciones (e-mails, etc...) repartidos entre diferentes dispositivos, servidores o soluciones poco confiables y productivas. ¿Están seguros en su estado/mantenimiento actual? Tic, tac... .</p>
+	   <p>Eso podemos ofrecerte con la seguridad y (adicionalmente)el plus que confiere la encriptación. Si lo prefieres implantamos / renovamos / mantenemos  <i>tus sistemas »</i> y herramientas de colaboración en tus propios PCs / Servidores en vez de en los nuestros.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/slideshow/aves-migratorias.jpg" alt="Generic placeholder image">
