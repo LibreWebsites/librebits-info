@@ -62,7 +62,7 @@
           <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
 	  
 	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
-          <h2>Sistemas, Colaboración y almacenamiento  online</h2>
+          <h2>Privacidad</h2>
           <h4></h4>
 	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
 	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
@@ -77,8 +77,8 @@
 
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
-          <h2>Asesoría de servicios online</h2>
-          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago, conectividad, datos y visualiazción en tiempo real, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular. Potenciamos tuproyecto.</p>
+          <h2>Resiliencia</h2>
+          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes</i>. Esto es, a ser capaz de recuperarse ágilmente en un entorno tan apasionante como hostil, como es Internet..</p>
 	  <p></p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
