@@ -145,7 +145,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item">
-          <img class="first-slide" src="assets/images/slideshow/Librebits_v4.png" alt="First slide">
+          <img class="first-slide" src="assets/images/slideshow/Ubuntu/ubuntu-desktop-ii.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <p> <code> -. Lao-Tzu , filósofo chino ( 604 a.C. - 531 a.C. )</code> </p>
@@ -155,23 +155,23 @@
           </div>
         </div>
         <div class="item">
-          <img class="first-slide" src="assets/images/slideshow/amasando-pan_dyne-org-small.jpg" alt="First slide">
+          <img class="first-slide" src="assets/images/slideshow/Ubuntu/ubuntu_deviantart-by_snn_engn.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1><code>Artesanía EnLínea</code></h1>
-              <p> En <code>librebits</code> te inspiramos en el aprendizaje, codesarrollo y adopción de las herramientas y tecnologías  que mejoren tu experiencia online.
+              <h1><code>Sistema Operativo Ubuntu Linux</code></h1>
+              <p> ...<code>Linux</code>  «para seres humanos».
 	      </p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="assets/images/slideshow/matrix-keyboard-ii.png" alt="Second slide">
+          <img class="second-slide" src="assets/images/slideshow/Ubuntu/ubuntu-laptop.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hecho con nuestras manos.</h1>
-	                    <h1><code>Hecho con el corazón</code>.</h1>
-              <p>Software, Redes, Sistemas, Colaboración / Comercio-e, Datos en tiempo real...y más!. <code>Librebits</code>.</p>
+              <h1>Software Libre</h1>
+	                    <h1><code>estable,seguro, resiliente...</code>.</h1>
+              <p>y versátil (PC y Servidor)<code>Ubuntu</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
           </div>
