@@ -115,7 +115,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">...que podemos aprender <span class="text-muted"> ¿de Telefónica y el código malicioso WannaCry?</span></h2>
-          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el obsoleto Windows XP y sucesores</i> u otros sistemas operativos (más) vulnerables?. </p>
+          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el Microsoft Windows</i> u otros sistemas operativos (más) vulnerables?. </p>
 
 	  <p>viendo lo sucedido a la mayor empresa tecnologica española <i>Telefónica</i>... (entre otras) como mero ejemplo <i>criptomonedas</i>,etc <a href="contact.php">reflexionamos o...¿Mejor nos escribimos y seguimos charlando »</a></p>
         </div>
