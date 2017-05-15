@@ -53,7 +53,7 @@
 
 	  <h2>Seguridad</h2>
           <h4></h4>
-	  <p>Nos tomamos la seguridad muy en serio. Tanto o más que Telefónica (por ejemplo). Somos tus sastres, y te hacemos un chaleco protector (a prueba de ciberataques) a tu medida . Para que te sientas no sólo cómod@ sino también seguro  en Internet..</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos. Sólidos como una roca</i></p>
+	  <p>Nos tomamos la seguridad muy en serio. Tanto o más que Telefónica (por ejemplo). Somos tus sastres, y te hacemos un chaleco protector (a prueba de ciberataques) a tu medida . Para que te sientas no sólo cómod@ sino también seguro  en Internet..</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos. Sólidos como una roca.</i></p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -117,7 +117,7 @@
           <h2 class="featurette-heading">...que podemos aprender <span class="text-muted"> ¿de Telefónica y el código malicioso WannaCry?</span></h2>
           <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el Microsoft Windows</i> u otros sistemas operativos (más) vulnerables?. </p>
 
-	  <p>viendo lo sucedido a la mayor empresa tecnologica española <i>Telefónica</i>... (entre otras) como mero ejemplo <i>criptomonedas</i>,etc <a href="contact.php">reflexionamos o...¿Mejor nos escribimos y seguimos charlando »</a></p>
+	  <p>viendo lo sucedido a la mayor empresa tecnologica española <i>Telefónica</i>... (entre otras) como mero ejemplo <a href="contact.php">...¿nos escribes y seguimos charlando y ver como podemos ayudarte a evolucionar »</a></p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/ciberataques-en-tiempo-real.jpg" alt="Generic placeholder image">

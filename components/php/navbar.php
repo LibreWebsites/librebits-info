@@ -15,6 +15,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
+	            <li><a href="migra.php">Eficiencia y confiabilidad: Migra tus Sistemas Operativos!</a></li> -->
 <!--                <li><a href="https://blog.librebits.info">Blog</a></li> -->
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprendiendo juntxs<span class="caret"></span></a>
@@ -32,7 +33,6 @@
 		    <li><a href="software-libre.php">¿Qué es el software libre?</a></li>
                   </ul>
                 </li>
-                <li><a href="migra.php">Migra tus Sistemas Operativos!</a></li> -->
 		<li><a href="pay.php"> €nergiza </a></li>
                 <li><a href="contact.php">Contacta:</a></li>
               </ul>
