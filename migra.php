@@ -211,36 +211,6 @@
       </a>
     </div><!-- /.carousel -->
 
-
-      
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Mmh..¿colaboración online?</<span class="text-muted">  Que te invitemos a migrar tus PCs a sistemas robustos ... no es gratuito </span></h2><p class="lead"> Solemos tener nuestros datos e interacciones (e-mails, etc...) repartidos entre diferentes dispositivos, servidores o soluciones poco confiables y productivas. ¿Están seguros en su estado/mantenimiento actual? Tic, tac... .</p>
-	   <p>Eso podemos ofrecerte con la seguridad y (adicionalmente)el plus que confiere la encriptación. Si lo prefieres implantamos / renovamos / mantenemos  <i>tus sistemas »</i> y herramientas de colaboración en tus propios PCs / Servidores en vez de en los nuestros.</p>					   
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="assets/images/slideshow/aves-migratorias.jpg" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Maestros-aprendices<span class="text-muted"> Exploradores. Buscadores... </span></h2>
-          <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje colectivos.
-	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
-	  <p class="lead">
-	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="hackerkids.php" role="button">HackerKid(s) »</a>.</p>
-	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Escríbenos un eMail >></a></p>	  
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata.png" alt="Generic placeholder image">
-        </div>
-      </div>
-
       <hr class="featurette-divider">
 
 
