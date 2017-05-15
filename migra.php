@@ -109,21 +109,15 @@
 <!-- FIN Video Telefonica-vs-WannCry -->
         </div>
       </div>
-
-<!-- Test I - VIDEO Telefonica WannaCry
-<div>
-<video id="" src="assets/Telefonica-WannaCry.webm" controls autoplay preload></video>
-</div>
--->
       
       <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">...que podemos aprender <span class="text-muted"> ¿de Telefónica y el código malicioso WannaCry?</span></h2>
-          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el obsoleto Windows XP y sucesores</i> u otras sistemas operativos endebles?. </p>
+          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el obsoleto Windows XP y sucesores</i> u otros sistemas operativos (más) vulnerables?. </p>
 
-	  <p> Esto le sucedió a la mayor empresa tecnologica espñola <i>Telefónica</i>... (entre otras) como mero ejemplo <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a></p>
+	  <p>viendo lo sucedido a la mayor empresa tecnologica española <i>Telefónica</i>... (entre otras) como mero ejemplo <i>criptomonedas</i>,etc <a href="contact.php">reflexionamos o...¿Mejor nos escribimos y seguimos charlando »</a></p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/ciberataques-en-tiempo-real.jpg" alt="Generic placeholder image">

@@ -139,11 +139,14 @@
           <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
 	  
 	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
-          <h2>Sistemas, Colaboración y almacenamiento  online</h2>
+          <h2>Sistemas, Colaboración y migraciones a software libre</h2>
           <h4></h4>
-	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
-<!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
+	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más segura fluida y ágil tu actividad, usamos derivados de Linux.</p>
+	  <p>Te acompañamos en procesos de <a href="migra.php"> migración a sistemas operativos confiables y resilientes »</a></p>
+          <p><a class="btn btn-default btn-primary" href="migra.php" role="button">Migramos ? »</a></p>
+
+<!--	             <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  -->
+	  
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
 	  <span class="glyphicons glyphicons-roundabout"></span>
