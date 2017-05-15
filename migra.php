@@ -4,7 +4,7 @@
     <!--- here goes meta.php -->
     <?php include "components/php/meta.php"; ?> 
 
-    <title>Librebits | Home</title>
+    <title>Librebits | Migra</title>
 
     <!-- Bootstrap core CSS -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/bootstrap.css" rel="stylesheet">
@@ -34,6 +34,95 @@
     <?php include "components/php/navbar.php"; ?>
 
         
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+    
+    <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-home"></span>
+
+	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+        
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-info-sign"></span>
+
+	  <h2>Desarrollo Web</h2>
+          <h4></h4>
+	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos.</i></p>
+<!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+  	  <span style="font-size:2.5em;" class="glyphicon glyphicon-cloud"></span>
+	  
+          <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+	  
+	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
+          <h2>Sistemas, Colaboración y almacenamiento  online</h2>
+          <h4></h4>
+	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
+	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
+<!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+	  <span class="glyphicons glyphicons-roundabout"></span>
+
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-user"></span>
+	  
+	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
+          
+          <h2>Asesoría de servicios online</h2>
+          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago, conectividad, datos y visualiazción en tiempo real, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular. Potenciamos tuproyecto.</p>
+	  <p></p>
+<!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+      
+
+      <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading"> ¿Comercio/pago electrónico?<span></h2>
+
+	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
+	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
+
+	  <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
+           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+
+
+
+      
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios en la web?</span></h2>
+          <p class="lead">Potenciamos tu proyecto. .. Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica y eficiente en la Web. Tu marcas el rumbo. A continuación algunas (entre otras) cosas que desarrollamos en estos momentos... </p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+
+
+
 
     <!-- Carousel
     ================================================== -->
@@ -113,88 +202,7 @@
     </div><!-- /.carousel -->
 
 
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-    
-    <div class="container marketing">
-
-      <!-- Three columns of text below the carousel -->
-      <div class="row">
-        <div class="col-lg-4">
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-home"></span>
-
-	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
-        
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-info-sign"></span>
-
-	  <h2>Desarrollo Web</h2>
-          <h4></h4>
-	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos.</i></p>
-<!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-  	  <span style="font-size:2.5em;" class="glyphicon glyphicon-cloud"></span>
-	  
-          <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
-	  
-	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
-          <h2>Sistemas, Colaboración y almacenamiento  online</h2>
-          <h4></h4>
-	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
-<!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-	  <span class="glyphicons glyphicons-roundabout"></span>
-
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-user"></span>
-	  
-	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
-
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
-          
-          <h2>Asesoría de servicios online</h2>
-          <p> Te guiamos en ámbitos como la seguridad informática, comercio electrónico, medios de pago, conectividad, datos y visualiazción en tiempo real, nuevas tecnologías en general y cualquier reto digital que se nos pueda presentar en particular. Potenciamos tuproyecto.</p>
-	  <p></p>
-<!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
       
-
-      <!-- START THE FEATURETTES -->
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> ¿Comercio/pago electrónico?<span></h2>
-
-	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
-	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-
-	  <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
-           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
-        </div>
-      </div>
-
-
-      
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios en la web?</span></h2>
-          <p class="lead">Potenciamos tu proyecto. .. Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica y eficiente en la Web. Tu marcas el rumbo. A continuación algunas (entre otras) cosas que desarrollamos en estos momentos... </p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
-        </div>
-      </div>
-
       <hr class="featurette-divider">
 
       <div class="row featurette">
