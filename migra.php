@@ -51,9 +51,9 @@
         
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-info-sign"></span>
 
-	  <h2>Desarrollo Web</h2>
+	  <h2>Seguridad</h2>
           <h4></h4>
-	  <p>Somos tus sastres. Hacemos tu ropa a medida. Para que te sientas cómod@ en Internet. Adaptamos los contenidos publicados como un guante a tu móvil, tableta y PC. Y los enlazamos con las redes sociales desde un espacio web propio.</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos.</i></p>
+	  <p>Nos tomamos la seguridad muy en serio. Tanto o más que Telefónica (por ejemplo). Somos tus sastres, y te hacemos un chaleco protector (a prueba de ciberataques) a tu medida . Para que te sientas no sólo cómod@ sino también seguro  en Internet..</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos. Sólidos como una roca</i></p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -64,8 +64,8 @@
 	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
           <h2>Privacidad</h2>
           <h4></h4>
-	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
+	  <p>Desarrollamos contigo flujos de trabajo con sistemas y herramientas de colaboración online respetuosas con la privacidad.</p>
+	  <p>Tú y tu equipo tiene el control absoluto de los documentos ( y metadatos personales) y flujo de trabajo. En cualquier dispositivo. De forma privada. A salvo de la mirada de fisgones</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -91,32 +91,43 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> ¿Comercio/pago electrónico?<span></h2>
+          <h2 class="featurette-heading"> Que te invitemos a migrar tus PCs a sistemas robustos <span></h2>
 
-	   <span class="text-muted">Potenciamos las posibilidades de tu espacio web.</span></h2
-	  <p class="lead">  ¿tu actividad/negocio requiere de pagos más ágiles / on-line?¿integración <i>PayPal</i> u otras pasarelas de pago?. Los desarrollamos de forma segura, sencilla y eficaz. Siempre a salvo de fisgones online... </p>
-
-	  <p> También estamos experimentando con la tecnología <i>blockchain</i> y su abanico de aplicaciones como <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a>:</p>
+	   <span class="text-muted">... no es gratuito </span></h2
+	  <p class="lead"> <p>Bla </p>
            <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" src="assets/images/ciberataques-en-tiempo-real.jpg" alt="Generic placeholder image">
+
+<!-- Video Telefonica-vs-WannCry -->
+	  
+<video id="" width="640" height="360" preload controls>
+<!--  <source src="HTML5Sample_H264.mov" /> -->
+<!-- <source src="HTML5Sample_Ogg.ogv" /> -->
+  <source src="assets/Telefonica-WannaCry.webm" />
+</video>
+<!-- FIN Video Telefonica-vs-WannCry -->
         </div>
       </div>
 
-
-
-
+<!-- Test I - VIDEO Telefonica WannaCry
+<div>
+<video id="" src="assets/Telefonica-WannaCry.webm" controls autoplay preload></video>
+</div>
+-->
       
       <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading"> El cielo y las nubes, nuestro único límite...  <span class="text-muted"> ¿Buscas poner en marcha otras herramientas/servicios en la web?</span></h2>
-          <p class="lead">Potenciamos tu proyecto. .. Lo  mencionado hasta  aquí no es más que un reflejo de lo que venimos haciendo últimamente, ... siempre podremos hacernos unas alas nuevas para dar rienda suelta a nuestra creatividad, concretándola de forma práctica y eficiente en la Web. Tu marcas el rumbo. A continuación algunas (entre otras) cosas que desarrollamos en estos momentos... </p>
+          <h2 class="featurette-heading">...que podemos aprender <span class="text-muted"> ¿de Telefónica y el código malicioso WannaCry?</span></h2>
+          <p class="lead"> ¿tu actividad/negocio requiere funcionamiento (cuasi) ininterrumpido / on-line? <i>Aún usas el obsoleto Windows XP y sucesores</i> u otras sistemas operativos endebles?. Queremos compartir una reciente historia contigo... </p>
+
+	  <p> Esto le sucedió a la mayor empresa tecnologica espñola <i>Telefónica</i>... (entre otras) como mero ejemplo <i>criptomonedas</i>,etc <a href="contact.php">y bla,bla...¿Mejor nos escribimos y seguimos charlando »</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="assets/images/bicicleta-voladora.png" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" src="assets/images/ciberataques-en-tiempo-real.jpg" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -167,7 +178,7 @@
           </div>
         </div>
         <div class="item active">
-          <img class="third-slide" src="assets/images/slideshow/colibri-wide.jpg" alt="Third slide">
+          <img class="third-slide" src="assets/images/slideshow/microsoft-windows-xp-login.jpeg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Desarrollamos con licencias de <code>software libre</code></h1>
@@ -211,7 +222,7 @@
 	   <p>Todo de la forma segura y privada que confiere la encriptación. Si lo prefieres implantamos tu <i>la colaboración online »</i> y herramientas de colaboración en tus propios PCs / Servidores.</p>					   
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" src="assets/images/slideshow/aves-migratorias.jpg" alt="Generic placeholder image">
         </div>
       </div>
 

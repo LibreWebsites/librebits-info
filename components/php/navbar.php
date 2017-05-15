@@ -17,7 +17,7 @@
               <ul class="nav navbar-nav">
 <!--                <li><a href="https://blog.librebits.info">Blog</a></li> -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprendiendo juntos<span class="caret"></span></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprendiendo juntxs<span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li class="dropdown-header">en colaboración con escuelas:</li>
 		    <li><a href="hackerkids.php"> proyecto HackerKids </a></li>
