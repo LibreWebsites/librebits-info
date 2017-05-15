@@ -91,11 +91,10 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading"> Queremos compartir una reciente historia contigo...  <span></h2>
+          <h2 class="featurette-heading"> Una historia...  <span></h2>
 
-	   <span class="text-muted">... la de <i>Telefónica</i> y <i>WannaCry</i> </span></h2
-	  <p class="lead"> <p>Bla </p>
-           <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  
+	   <span class="text-muted">reciente... la de <i>Telefónica</i> y <i>WannaCry</i> </span></h2
+	  <p class="lead"> <p></p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="assets/images/ciberataques-en-tiempo-real.jpg" alt="Generic placeholder image">
