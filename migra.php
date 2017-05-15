@@ -93,7 +93,7 @@
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading"> Una historia...  <span></h2>
 
-	   <span class="text-muted">reciente... la de <i>Telefónica</i> y <i>WannaCry</i> </span></h2
+	   <span class="text-muted">...reciente: la de <i>Telefónica</i> y <i>WannaCry</i> </span></h2
 	  <p class="lead"> <p></p>
         </div>
         <div class="col-md-5 col-md-pull-7">
@@ -158,19 +158,19 @@
           <img class="first-slide" src="assets/images/slideshow/Ubuntu/ubuntu_deviantart-by_snn_engn.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1><code>Sistema Operativo Ubuntu Linux</code></h1>
-              <p> ...<code>Linux</code>  «para seres humanos».
+              <h1><code>Linux</code> «para seres humanos</h1>
+<!--              <p> ...<code></code>. -->
 	      </p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="assets/images/slideshow/Ubuntu/ubuntu-laptop.jpg" alt="Second slide">
+          <img class="second-slide" src="assets/images/slideshow/Ubuntu/ubuntu-laptop.jpeg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Software Libre</h1>
-	                    <h1><code>estable,seguro, resiliente...</code>.</h1>
+	                    <h1><code>Seguro, resiliente...</code>.</h1>
               <p>y versátil (PC y Servidor)<code>Ubuntu</code>.</p>
 		<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p> -->
             </div>
@@ -180,7 +180,7 @@
           <img class="third-slide" src="assets/images/slideshow/microsoft-windows-xp-login.jpeg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Desarrollamos con licencias de <code>software libre</code></h1>
+              <h1><code>Software libre</code></h1>
               <p>Vamos más allá de las ataduras del software propietario...Cuando quieras, simplemente cambias de colaborador, pero no de solución técnica.</p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">( Adiós al "vendor-locking")</a></p> -->
             </div>
@@ -193,8 +193,8 @@
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> <code> Comercio  y medios de pago electrónicos </code></h1>
-	                   <p><h3> "¿desarrollas una actividad profesional online?"</h3></p>
+              <h1> <code> Te acompañamos en la transición a Ubuntu Linux </code></h1>
+	                   <p><h3> de principio a fin</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
