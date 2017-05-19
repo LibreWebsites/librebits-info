@@ -66,7 +66,8 @@
           <h2>Privacidad</h2>
           <h4></h4>
 	  <p>Desarrollamos contigo flujos de trabajo con sistemas y herramientas de colaboración online respetuosas con la privacidad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos ( y metadatos personales) y flujo de trabajo. En cualquier dispositivo. De forma privada. A salvo de la mirada de fisgones. Migra a entornos TIC respetuosos con la privacidad.</p>
+	  <p>Tú y tu equipo tiene el control absoluto de los documentos ( y metadatos personales) y flujo de trabajo. En cualquier dispositivo. De forma privada. A salvo de la mirada de fisgones.</p>
+	  <p> Migra a entornos TIC respetuosos con la privacidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
