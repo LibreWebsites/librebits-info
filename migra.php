@@ -54,7 +54,7 @@
 	  <h2>Seguridad</h2>
           <h4></h4>
 	  <p>Nos tomamos la seguridad muy en serio. Tanto o más que Telefónica (por ejemplo). Somos tus sastres, y te hacemos un chaleco protector (a prueba de ciberataques) a tu medida . Para que te sientas no sólo cómod@ sino también seguro  en Internet..</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos. Sólidos como una roca.</i></p>
-	  <p>Migra a entornos TIC (más) seguros .</p
+	  <p>Migra a entornos TIC (más) seguros .</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
