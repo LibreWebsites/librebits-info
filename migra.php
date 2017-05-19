@@ -54,6 +54,7 @@
 	  <h2>Seguridad</h2>
           <h4></h4>
 	  <p>Nos tomamos la seguridad muy en serio. Tanto o más que Telefónica (por ejemplo). Somos tus sastres, y te hacemos un chaleco protector (a prueba de ciberataques) a tu medida . Para que te sientas no sólo cómod@ sino también seguro  en Internet..</p><p> Aspiramos, con el tiempo, <i> a ser tus socios tecnológicos. Sólidos como una roca.</i></p>
+	  <p>Migra a entornos TIC (más) seguros .</p
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -65,7 +66,7 @@
           <h2>Privacidad</h2>
           <h4></h4>
 	  <p>Desarrollamos contigo flujos de trabajo con sistemas y herramientas de colaboración online respetuosas con la privacidad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos ( y metadatos personales) y flujo de trabajo. En cualquier dispositivo. De forma privada. A salvo de la mirada de fisgones</p>
+	  <p>Tú y tu equipo tiene el control absoluto de los documentos ( y metadatos personales) y flujo de trabajo. En cualquier dispositivo. De forma privada. A salvo de la mirada de fisgones. Migra a entornos TIC respetuosos con la privacidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -78,8 +79,8 @@
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
           <h2>Resiliencia</h2>
-          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes</i>. Esto es, a ser capaz de recuperarse ágilmente en un entorno tan apasionante como hostil, como es Internet..</p>
-	  <p></p>
+          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes</i>. Esto es, a ser capaz de recuperarse ágilmente, de desastres informáticos, potenciales ciberataques, código malicioso...En un entorno tan apasionante como hostil, como es el Internet y su cotidianeidad.</p>
+	  <p>Migra a entornos TIC (más) robustos y resilientes.</p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
