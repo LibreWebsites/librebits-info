@@ -218,8 +218,8 @@
           <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje colectivos.
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
 	  <p class="lead">
-	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="hackerkids.php" role="button">HackerKid(s) »</a>.</p>
-	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Escríbenos un eMail >></a></p>	  
+	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="http://hackerkids.space" role="button">HackerKid(s) »</a>.</p>
+	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Proyecto HackerKids >></a></p>	  
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata.png" alt="Generic placeholder image">
