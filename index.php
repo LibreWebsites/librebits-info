@@ -88,6 +88,19 @@
           </div>
         </div>
 
+	<div class="item active">
+          <img class="third-bis-slide" src="assets/images/slideshow/hackerkids.png" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Proyecto educativo <code>HackerKids</code></h1>
+              <p>Espacio de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
+<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">( Adiós al "vendor-locking")</a></p> -->
+            </div>
+          </div>
+        </div>
+
+
+
 
       <!-- más -->
         <div class="item">
