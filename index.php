@@ -247,8 +247,8 @@
 
 
       <!-- End HackerKids : test full width bottom image -->
-              <p>Espacio de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Proyecto HackerKids</a></p>
+              <p>Espacio (educativo) de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
+              <p><a class="btn btn-lg btn-primary" href="http://hackerkids.space" role="button">Proyecto HackerKids</a></p>
 
 
       <div class="row">
