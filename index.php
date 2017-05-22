@@ -246,17 +246,19 @@
 
 
 
-      <!-- End HackerKids : test full width bottom image -->
-              <p>Espacio (educativo) de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
-              <p><a class="btn btn-lg btn-primary" href="http://hackerkids.space" role="button">Proyecto HackerKids</a></p>
-
 
       <div class="row">
 	<div class="col-md-12 padding-0">
 	  <img src="assets/images/slideshow/hackerkids.png" />
 	</div>
       </div> 
+
+
       
+      <!-- End HackerKids : test full width bottom image -->
+              <p>Espacio (educativo) de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
+              <p><a class="btn btn-lg btn-primary" href="http://hackerkids.space" role="button">Ir a HackerKids.space >></a></p>
+
             
       <!-- /END THE FEATURETTES -->
 
