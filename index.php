@@ -245,36 +245,6 @@
       <!-- HackerKids -->
 
 
-      
-      <hr class="featurette-divider">
-
-
-            <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">¿llegó la hora de actualizar/migrar </<span class="text-muted"> tus sistemas/servidores/PCs ?, hazlo con todas las garantías.</span></h2><p class="lead"> Con una visión de conjunto, tus herramientas  diseminadas en varios dispositivos, son capaces de orquestarse con más armonía. Migra/actualiza/libera tus sistemas al software más potente actualmente. Sencillamente.</p>
-	   <p>En un proceso clave en las herramientas que te acompañan día,día... preguntanos como mejoramos en comodidad y productividad. <i>Sin ataduras »</i>  <a href="libera-tu-pc.php">Empodera tus PCs / Servidores y multiplica sus posibilidades.</a> Que trabajen por tí. No al revés.</p>					   
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="assets/images/acrobata-a-caballo.png" alt="Generic placeholder image">
-        </div>
-      </div>
-
-
-      
-	<div class="item active">
-          <img class="third-bis-slide" src="assets/images/slideshow/hackerkids.png" alt="Third slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Proyecto educativo <code>HackerKids</code></h1>
-              <p>Espacio de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
-<!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">( Adiós al "vendor-locking")</a></p> -->
-            </div>
-          </div>
-        </div>
-
-
-
-
 
       <!-- End HackerKids : test full width bottom image -->
               <p>Espacio de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
