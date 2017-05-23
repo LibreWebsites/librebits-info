@@ -20,7 +20,7 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprendiendo juntxs<span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-header">en colaboración con escuelas:</li>
+                    <li class="dropdown-header">en el ámbito educativo :</li>
 		    <li><a href="hackerkids.php"> proyecto HackerKids </a></li>
 		    <li role="separator" class="divider"></li>
 		    <li class="dropdown-header">te acompañanamos a la hora de ... </li>
