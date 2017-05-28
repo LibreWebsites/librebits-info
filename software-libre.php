@@ -62,7 +62,7 @@
     <div class="starter-template">
 
             <div class="row text-center">
-	      <img src="assets/images/mapa-softwarelibre.svg" alt="GNU/Linux" class="tux">
+	      <img src="assets/images/mapa-softwarelibre.svg" alt="mapa conceptual del software libre" class="tux">
 	    </div>
     </div>
   </div>    
