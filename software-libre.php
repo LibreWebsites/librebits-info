@@ -56,9 +56,26 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
 
+
   <div class="container">
 
     <div class="starter-template">
+
+            <div class="row text-center">
+	      <img src="assets/images/mapa-softwarelibre.svg" alt="GNU/Linux" class="tux">
+	    </div>
+    </div>
+  </div>    
+
+
+    <!-- mapa conceptual -->
+
+    
+
+  <div class="container">
+
+    <div class="starter-template">
+
             <div class="row text-center">
 	    
 	      <p class="lead">Definición de software libre</p>
