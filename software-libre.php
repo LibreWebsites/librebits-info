@@ -5,7 +5,7 @@
     <?php include "components/php/meta.php"; ?> 
 
     
-    <title>Librebits | Contact</title>
+    <title>Librebits | ¿Software Libre? </title>
 
     <!-- Bootstrap core CSS -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/bootstrap.css" rel="stylesheet">
