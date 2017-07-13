@@ -79,8 +79,8 @@
 
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
-          <h2>Resiliencia</h2>
-          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes</i>. Esto es, a ser capaz de recuperarse ágilmente, de desastres informáticos, potenciales ciberataques, código malicioso...En un entorno tan apasionante como hostil, como es la red de redes (Internet) y su cotidianeidad.</p>
+          <h2>Potencia & Resiliencia</h2>
+          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes y más potentes</i>. Esto es, a ser capaz de recuperarse ágilmente ante las dificultades y los cambios.En un entorno tan apasionante como mutante: la red de redes (Internet) y su cotidianeidad.</p>
 	  <p>Migra a entornos TIC (más) robustos y resilientes.</p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
