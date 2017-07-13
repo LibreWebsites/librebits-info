@@ -60,7 +60,7 @@
 	  
 	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
 
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-plane"></span>
           
           <h2>Potencia & Resiliencia</h2>
           <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes y más potentes</i>. Esto es, a ser capaz de evolucionar ágilmente. En un entorno tan apasionante como mutante: la red de redes (Internet) y su cotidianeidad.</p>
@@ -74,7 +74,7 @@
 
 	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
         
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-info-sign"></span>
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-tree-conifer"></span>
 
 	  <h2>Seguridad</h2>
           <h4></h4>
