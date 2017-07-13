@@ -43,7 +43,25 @@
     <div class="container marketing">
 
       <!-- Three columns of text below the carousel -->
+
       <div class="row">
+
+        <div class="col-lg-4">
+	  <span class="glyphicons glyphicons-roundabout"></span>
+
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-user"></span>
+	  
+	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
+
+	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
+          
+          <h2>Potencia & Resiliencia</h2>
+          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes y más potentes</i>. Esto es, a ser capaz de recuperarse ágilmente ante las dificultades y los cambios.En un entorno tan apasionante como mutante: la red de redes (Internet) y su cotidianeidad.</p>
+	  <p>Migra a entornos TIC (más) robustos y resilientes.</p>
+<!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
+        </div><!-- /.col-lg-4 -->
+
+	
         <div class="col-lg-4">
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-home"></span>
 
@@ -69,24 +87,8 @@
 	  <p>Tú y tu equipo tiene el control absoluto de los documentos ( y metadatos personales) y flujo de trabajo. En cualquier dispositivo. De forma privada. A salvo de la mirada de fisgones.</p>
 	  <p> Migra a entornos TIC respetuosos con la privacidad.</p>
 <!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-	  <span class="glyphicons glyphicons-roundabout"></span>
-
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-user"></span>
-	  
-	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
-
-	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
-          
-          <h2>Potencia & Resiliencia</h2>
-          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes y más potentes</i>. Esto es, a ser capaz de recuperarse ágilmente ante las dificultades y los cambios.En un entorno tan apasionante como mutante: la red de redes (Internet) y su cotidianeidad.</p>
-	  <p>Migra a entornos TIC (más) robustos y resilientes.</p>
-<!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-lg-4 -->      
       </div><!-- /.row -->
-      
-
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
