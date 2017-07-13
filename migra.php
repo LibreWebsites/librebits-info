@@ -11,11 +11,18 @@
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="Carousel%20Template%20for%20Bootstrap_files/ie-emulation-modes-warning.js"></script><style>.carbonad,
+    <script src="Carousel%20Template%20for%20Bootstrap_files/ie-emulation-modes-warning.js"></script>
+    <style>.carbonad,
 #content > #right > .dose > .dosesingle,
 #content > #center > .dose > .dosesingle,
 #carbonads-container
-{display:none !important;}</style>
+    {display:none !important;}
+
+      .spacing {
+      margin-top: 10em;
+      }
+    
+</style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -46,7 +53,7 @@
 
       <div class="row">
 
-        <div class="col-lg-4">
+        <div class="col-lg-4 spacing">
 	  <span class="glyphicons glyphicons-roundabout"></span>
 
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-user"></span>
@@ -56,13 +63,13 @@
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-shopping-cart"></span>
           
           <h2>Potencia & Resiliencia</h2>
-          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes y más potentes</i>. Esto es, a ser capaz de recuperarse ágilmente ante las dificultades y los cambios.En un entorno tan apasionante como mutante: la red de redes (Internet) y su cotidianeidad.</p>
+          <p> Te guiamos a la hora de converger a <i>tecnologías de la información resilientes y más potentes</i>. Esto es, a ser capaz de evolucionar ágilmente. En un entorno tan apasionante como mutante: la red de redes (Internet) y su cotidianeidad.</p>
 	  <p>Migra a entornos TIC (más) robustos y resilientes.</p>
 <!--          <p><a class="btn btn-default" href="#" role="button">Saber más »</a></p> -->
         </div><!-- /.col-lg-4 -->
 
 	
-        <div class="col-lg-4">
+        <div class="col-lg-4 spacing">
 	  <span style="font-size:2.5em;" class="glyphicon glyphicon-home"></span>
 
 	  <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
@@ -75,7 +82,7 @@
 	  <p>Migra a entornos TIC (más) seguros .</p>
 <!--          <p><a class="btn btn-default" href="http://latinamericajourneys.guru" role="button">Visit Website »</a></p> -->
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
+        <div class="col-lg-4 spacing">
   	  <span style="font-size:2.5em;" class="glyphicon glyphicon-cloud"></span>
 	  
           <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
