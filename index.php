@@ -93,8 +93,8 @@
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> <code> Comercio  y medios de pago electrónicos </code></h1>
-	                   <p><h3> "¿desarrollas una actividad profesional online?"</h3></p>
+              <h1> <code> Tejemos una red cooperativa</code></h1>
+	                   <p><h3> Ágil y resiliente. Generadora de procomún.</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
