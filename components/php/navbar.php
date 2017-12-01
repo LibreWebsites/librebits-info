@@ -15,8 +15,8 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-	            <li><a href="migra.php">Herramientas+Ágiles+Potentes+Resilientes</a></li> -->
-                    <li><a href="https://jordila.librebits.info/category/softwarelibre/">Blog</a></li>
+	            <li><a href="https://jordila.librebits.info/category/softwarelibre/">Blog</a></li>
+	            <li><a href="migra.php">Sistemas+Resilientes</a></li> -->
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aprendiendo juntxs<span class="caret"></span></a>
                   <ul class="dropdown-menu">
