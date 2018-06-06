@@ -88,14 +88,13 @@
           </div>
         </div>
 
-
       <!-- más -->
         <div class="item">
           <img class="fourth-slide" src="assets/images/slideshow/acueducto.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> <code> Comercio  y medios de pago electrónicos </code></h1>
-	                   <p><h3> "¿desarrollas una actividad profesional online?"</h3></p>
+              <h1> <code> Tejemos una red cooperativa</code></h1>
+	                   <p><h3> Ágil y resiliente. Generadora de procomún.</h3></p>
 <!--              <p><a class="btn btn-lg btn-primary" href="#" role="button">Saber más >>></a></p> -->
             </div>
           </div>
@@ -139,11 +138,14 @@
           <span style="font-size:4em;" class="glyphicon glyphicon-globe"></span>
 	  
 	  <span style="font-size:2.5em;"  class="glyphicon glyphicon-file"></span>
-          <h2>Sistemas, Colaboración y almacenamiento  online</h2>
+          <h2>Sistemas, Seguridad y migraciones a software libre</h2>
           <h4></h4>
-	  <p>Desarrollamos contigo sistemas y herramientas de colaboración online para hacer más fluida y ágil tu actividad.</p>
-	  <p>Tú y tu equipo tiene el control absoluto de los documentos y flujo de trabajo. En cualquier dispositivo.</p>
-<!--          <p><a class="btn btn-default" href="http://pachamama-productions.com" role="button">Visit Website »</a></p> -->
+	  <p>Desarrollamos contigo sistemas, Web y herramientas de colaboración online seguras para hacer más segura fluida y ágil tu actividad, usamos derivados de Linux.</p>
+	  <p>Te acompañamos en procesos de <a href="migra.php"> migración a sistemas operativos confiables y resilientes »</a></p>
+          <p><a class="btn btn-default btn-primary" href="migra.php" role="button">Migramos ? »</a></p>
+
+<!--	             <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Encontrar sinergias >></a></p>	  -->
+	  
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
 	  <span class="glyphicons glyphicons-roundabout"></span>
@@ -215,8 +217,8 @@
           <p class="lead"> Nos apasionan los procesos de  enseñanza - aprendizaje colectivos.
 	    De hecho... nosotros mismos ofrecemos cursos a medida, relacionados con cualesquiera de los mencionados servicios y  <a href="herramientas.php" role="button">herramientas  tecnológicas »</a> subyacentes. Todos tenemos algo que aprender. Todos tenemos algo que enseñar..</p>
 	  <p class="lead">
-	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="hackerkids.php" role="button">HackerKid(s) »</a>.</p>
-	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Escríbenos un eMail >></a></p>	  
+	    Disfrutamos también compartiendo y aprendiendo con nuestros niños y niñas o con cualquiera con espíritu  <a href="http://hackerkids.space" role="button">HackerKid(s) »</a>.</p>
+	  <p><a class="btn btn-lg btn-primary" href="contact.php" role="button"> Proyecto HackerKids >></a></p>	  
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="assets/images/acrobata.png" alt="Generic placeholder image">
@@ -237,6 +239,25 @@
       </div>
 
       <hr class="featurette-divider">
+
+
+
+      <!-- HackerKids -->
+
+
+
+
+      <div class="row">
+	<div class="col-md-12 padding-0">
+	  <img src="assets/images/slideshow/hackerkids.png" />
+	</div>
+      </div> 
+
+
+      
+      <!-- End HackerKids : test full width bottom image -->
+              <p>Espacio (educativo) de aprendizaje colectivo y autónomo para infancia y adolescencia.</p>
+              <p><a class="btn btn-lg btn-primary" href="http://hackerkids.space" role="button">Ir a HackerKids.space >></a></p>
 
             
       <!-- /END THE FEATURETTES -->

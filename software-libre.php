@@ -5,7 +5,7 @@
     <?php include "components/php/meta.php"; ?> 
 
     
-    <title>Librebits | Contact</title>
+    <title>Librebits | ¿Software Libre? </title>
 
     <!-- Bootstrap core CSS -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/bootstrap.css" rel="stylesheet">
@@ -56,9 +56,26 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
 
+
   <div class="container">
 
     <div class="starter-template">
+
+            <div class="row text-center">
+	      <img src="assets/images/mapa-softwarelibre.svg" alt="mapa conceptual del software libre" class="tux">
+	    </div>
+    </div>
+  </div>    
+
+
+    <!-- mapa conceptual -->
+
+    
+
+  <div class="container">
+
+    <div class="starter-template">
+
             <div class="row text-center">
 	    
 	      <p class="lead">Definición de software libre</p>
