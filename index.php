@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en">
+
+  <head>
 
     <!--- here goes meta.php -->
     <?php include "components/php/meta.php"; ?> 
@@ -11,7 +13,9 @@
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="Carousel%20Template%20for%20Bootstrap_files/ie-emulation-modes-warning.js"></script><style>.carbonad,
+    <script src="Carousel%20Template%20for%20Bootstrap_files/ie-emulation-modes-warning.js"></script>
+
+    <style>.carbonad,
 #content > #right > .dose > .dosesingle,
 #content > #center > .dose > .dosesingle,
 #carbonads-container
@@ -25,6 +29,12 @@
 
     <!-- Custom styles for this template -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/carousel.css" rel="stylesheet">
+
+    <!-- ConverseJS XMPP - WebClient -->
+    <!-- à la  https://conversejs.org/docs/html/quickstart.html -->
+
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdn.conversejs.org/css/converse.min.css">
+    <script src="https://cdn.conversejs.org/dist/converse.min.js"></script>
   </head>
 <!-- NAVBAR
 ================================================== -->
