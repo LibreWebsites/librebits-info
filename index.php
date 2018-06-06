@@ -30,6 +30,7 @@
     <!-- Custom styles for this template -->
     <link href="Carousel%20Template%20for%20Bootstrap_files/carousel.css" rel="stylesheet">
 
+
     <!-- ConverseJS XMPP - WebClient -->
     <!-- à la  https://conversejs.org/docs/html/quickstart.html -->
 
@@ -294,4 +295,14 @@
     <script src="Carousel%20Template%20for%20Bootstrap_files/ie10-viewport-bug-workaround.js"></script>
   
 
-</body></html>
+ </body>
+
+    <!-- ConverseJS XMPP - WebClient  SCript -->
+  <script>
+    converse.initialize({
+        bosh_service_url: 'https://conversejs.org/http-bind/', // Please use this connection manager only for testing purposes
+        show_controlbox_by_default: true
+    });
+    </script>
+
+</html>
