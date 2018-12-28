@@ -302,8 +302,8 @@
     converse.initialize({
             //        bosh_service_url: 'https://conversejs.org/http-bind/',
             // Please use this connection manager only for testing purposes
-            // bosh_service_url: 'http://librebits.info:5280/http-bind/',
-            bosh_service_url: 'https://conversejs.org/http-bind/',
+            bosh_service_url: 'https://librebits.info:5281/http-bind/',
+            // bosh_service_url: 'https://conversejs.org/http-bind/',
 
             show_controlbox_by_default: true
         
