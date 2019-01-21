@@ -300,11 +300,13 @@
     <!-- ConverseJS XMPP - WebClient  SCript -->
   <script>
     converse.initialize({
-            //        bosh_service_url: 'https://conversejs.org/http-bind/',
-            // Please use this connection manager only for testing purposes
+            authentication: 'login',
+            auto_login: true,
+            jid: 'jorweb@librebits.info',
+            password: 'jorweb',           
             bosh_service_url: 'https://librebits.info:5281/http-bind/',
             // bosh_service_url: 'https://conversejs.org/http-bind/',
-
+            // Please use this connection manager only for testing purposes
             show_controlbox_by_default: true
         
 
