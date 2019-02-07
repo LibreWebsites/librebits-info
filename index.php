@@ -308,15 +308,16 @@
             // bosh_service_url: 'https://conversejs.org/http-bind/',
             // Please use this connection manager only for testing purposes
             show_controlbox_by_default: true
+            
+            // auto iniciar chat con jla@ .. à la https://github.com/conversejs/converse.js/issues/679
+            // converse.listen.on('roster', function (event) {
+            //     var chatbox = converse.chats.open('jla@librebits.info')
+            //                });
+            // converse.listen.on('rosterCached', function (event) {
+            //    var chatbox = converse.chats.open('jla@librebits.info')
+            //                });
 
-            // auto iniciar chat con jla@ ..
-            converse.listen.on('roster', function (event) {
-                var chatbox = converse.chats.open('jla@librebits.info')
-                            });
-            converse.listen.on('rosterCached', function (event) {
-                var chatbox = converse.chats.open('jla@librebits.info')
-                            });
-
+            // converse.chats.open('jla@librebits.info') ?
 
     });
     </script>
