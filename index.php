@@ -299,6 +299,28 @@
 
     <!-- ConverseJS XMPP - WebClient  SCript -->
   <script>
+
+// auto iniciar chat con jla@ .. à la https://github.com/conversejs/converse.js/issues/679
+            // https://stackoverflow.com/questions/47034244/converse-opening-a-chat-from-api
+            // https://jsfiddle.net/jcbrand/5juvrL3c/
+    // Declaramos (primeramente!) nuestro Plugin ConverseJS , según exije la nueva API > v3.0 https://m.conversejs.org/docs/html/developer_api.html#send
+
+      converse.plugins.add('startChat', {
+              initialize: function() {
+                  var _converse = this._converse;
+                  Promise.all([
+                      _converse.api.waitUntil('rosterContactsFetched'),
+                      _converse.api.waitUntil('chatBoxesFetched')
+                  ]).then(function() {
+                      // Note, JID below must be in your contacts roster!
+                      _converse.api.chats.open('jla@librebits.info');
+                  });
+              } 
+          });
+  
+
+    // Inicializamos ConverseJS de forma clásica
+      
     converse.initialize({
             authentication: 'login', 
             auto_login: true,
@@ -307,18 +329,12 @@
             bosh_service_url: 'https://librebits.info:5281/http-bind/',
             // bosh_service_url: 'https://conversejs.org/http-bind/',
             // Please use this connection manager only for testing purposes
+            // auto chat tras autologin ? :
+            // Declaramos (primeramente!) nuestro Plugin ConverseJS , según exije la nueva API
+            whitelisted_plugins: ['startChat'],
+
             show_controlbox_by_default: true
-            
-            // auto iniciar chat con jla@ .. à la https://github.com/conversejs/converse.js/issues/679
-            // converse.listen.on('roster', function (event) {
-            //     var chatbox = converse.chats.open('jla@librebits.info')
-            //                });
-            // converse.listen.on('rosterCached', function (event) {
-            //    var chatbox = converse.chats.open('jla@librebits.info')
-            //                });
-
-            // converse.chats.open('jla@librebits.info') ?
-
+                        
     });
     </script>
 
