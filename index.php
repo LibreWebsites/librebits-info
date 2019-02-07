@@ -300,7 +300,7 @@
     <!-- ConverseJS XMPP - WebClient  SCript -->
   <script>
     converse.initialize({
-            authentication: 'login',
+            authentication: 'login', 
             auto_login: true,
             jid: 'jorweb@librebits.info',
             password: 'jorweb',           
