@@ -332,7 +332,7 @@
             // auto chat tras autologin ? :
             // Declaramos (primeramente!) nuestro Plugin ConverseJS , según exije la nueva API
             whitelisted_plugins: ['startChat'],
-
+            message_archiving: 'never',
             show_controlbox_by_default: false
                         
     });
