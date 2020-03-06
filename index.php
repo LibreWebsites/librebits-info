@@ -330,9 +330,12 @@
             // bosh_service_url: 'https://conversejs.org/http-bind/',
             // Please use this connection manager only for testing purposes
             // auto chat tras autologin ? :
-            // Declaramos (primeramente!) nuestro Plugin ConverseJS , según exije la nueva API
+            // Ya Declardo (ver anterior párrafo de código!) nuestro Plugin ConverseJS según nueva API,
+            // lo ++ 'whitelist'
             whitelisted_plugins: ['startChat'],
+            // https://conversejs.org/docs/html/configuration.html?highlight=message_archiving#message-archiving para evitar solapamiento de conversaciones de diferentes usuarios "
             message_archiving: 'never',
+            //  cerramos la ventanita 'ControlBox' para no mostrar ni salas, ni roaster... ni ná, como la Invisibilizamos/eliminamos del todo [..]
             show_controlbox_by_default: false
                         
     });
